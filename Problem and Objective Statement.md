@@ -1,15 +1,23 @@
-# The Problem
+# Introduction
 
-Parkinson’s disease (PD) is a disabling brain disorder that affects movements, cognition, sleep, and other normal functions.There are a large number of people sufferring from PD - an estimated 1.1 million people in the U.S. are living with PD and This number is expected to rise to 1.2 million by 2030, according to the Parkinson's Foundation. Parkinson's is the second-most common neurodegenerative disease after Alzheimer's disease.
+Parkinson’s Disease (PD) is a progressive neurodegenerative disorder that impairs movement, cognition, sleep, and other essential functions. Over 1.1 million individuals are currently living with PD in the United States alone, and this number is expected to grow to 1.2 million by 2030, according to the Parkinson’s Foundation. PD is the second-most common neurodegenerative disease after Alzheimer’s, presenting a significant and growing public health challenge.
+Despite its prevalence, the biological mechanisms behind PD are not yet fully understood, particularly which protein or peptide abnormalities contribute to disease onset and progression. This lack of understanding hinders the development of targeted therapies and slows down drug discovery efforts. Our goal in this project is to investigate the link between protein and peptide expression levels and the progression of Parkinson’s Disease, with the broader aim of enabling earlier diagnosis and more targeted treatments.
 
-However, it is not clear which protein or peptide abnormalities lead to PD and as a result, an effective targeted therapy cannot be delivered. In this project, we are looking to make some contribution in this direction.
+# The DataSet And Objective
 
-# The DataSet
+The data comes from a research study conducted by the Accelerating Medicines Partnership® Parkinson's Disease, containing longitudonal information for 1019 participants. The severity of the disease progression for PD is assessed through their Unified Parkinson’s Disease Rating Scale (UPDRS) scores. 
+- For 771 participants, we have Parkinson’s severity scores (UPDRS) collected over a 3-year period at regular 6-month intervals.
+- For 248 participants, data is available on the protein and peptide levels, along with Parkinson’s severity scores (UPDRS), collected over a 9-year period at varying intervals of 3, 6, and 12 months.
 
-The dataset comes from a research study conducted by the Accelerating Medicines Partnership® Parkinson's Disease, with data for 1019 participants. There, 248 participants were tested on the level of a variety of peptides and proteins and their PD progression status are also accessed, while the other 771 participants are only accessed for their PD progression status. The target variable in these datasets are the Unified Parkinson's Disease Rating Scales, which concerns the severity of key symptoms of PD patients. The original dataset only has a handful features, `visit_month`(a contatenation of `visit_month` and `patient_id`), `visit_month`, `patient_id`, `UniProt` (indicating the type of the protein), `Peptide` (indicating the peptide structure), `PeptideAbundance` (indicating the frequency of the amino acid in the sample), `NPX` (indicating the normalized frequency of the protein's occurrence in the sample). So it is necessary to do an initial feature engineering. 
+To elaborate, the original dataset for the 248 participants includes the following features: 
+- `patient_id`
+- `visit_month`
+- `UniProt` (indicating the type of the protein)
+- `Peptide` (indicating the peptide structure)
+- `PeptideAbundance` (indicating the frequency of the amino acid in the sample)
+- `NPX` (indicating the normalized frequency of the protein's occurrence in the sample). 
 
 
+ We use the UPDRS scores as the target variable to model disease progression. These scores have been simplified into binary classes (0 and 1) to represent different stages of symptom severity. The goal is to predict these progression categories using the protein and peptide-level data available to us. The stakeholders for this project include Parkinson’s patients, medical researchers, and pharmaceutical companies focused on developing targeted therapies. 
 
-# The Objective
-
-We plan to predict the PD's progression over time by the protein and peptide abundance data. The stakeholder will be millions of the PD patients, research institutes and Drug discovery companies. We plan to measure the outcome of this project by the robustness of our observation and the precision of our predictions.
+# Challenges
