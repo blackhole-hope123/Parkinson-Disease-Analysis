@@ -18,6 +18,6 @@ To elaborate, the original dataset for the 248 participants includes the followi
 - `NPX` (indicating the normalized frequency of the protein's occurrence in the sample). 
 
 
- We use the UPDRS scores as the target variable to model disease progression. These scores have been simplified into binary classes (0 and 1) to represent different stages of symptom severity. The goal is to predict these progression categories using the protein and peptide-level data available to us. The stakeholders for this project include Parkinson’s patients, medical researchers, and pharmaceutical companies focused on developing targeted therapies. 
+ We use the UPDRS scores as the target variable to model disease progression. (Remark: Explain in plain languages) These scores have been simplified into binary classes (0 and 1) to represent different stages of symptom severity. The goal is to predict these progression categories using the protein and peptide-level data available to us. The stakeholders for this project include Parkinson’s patients, medical researchers, and pharmaceutical companies focused on developing targeted therapies. 
 
 # Challenges
