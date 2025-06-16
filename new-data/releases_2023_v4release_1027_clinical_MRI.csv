@@ -1,0 +1,2336 @@
+participant_id,GUID,visit_name,visit_month,mri_results
+PP-10874,,M0,0,Normal
+PP-12224,NIHUN440CUNRR,M0,0,Normal
+PP-12499,,M0,0,Normal
+PP-12593,,M0,0,"Abnormal, not clinically significant"
+PP-13039,NIHLU969RYBRK,M0,0,
+PP-13424,,M0,0,
+PP-14281,NIHHU870AJAMV,M0,0,Normal
+PP-14331,NIHMM327UMCM6,M0,0,Normal
+PP-14426,NIHZY020DZGFE,M0,0,Normal
+PP-14426,NIHZY020DZGFE,M24,24,
+PP-15761,,M0,0,"Abnormal, clinically significant"
+PP-16580,NIHEW208HCGYQ,M0,0,
+PP-16580,NIHEW208HCGYQ,M12,12,
+PP-16580,NIHEW208HCGYQ,M24,24,
+PP-16644,NIHVD745KFZND,M0,0,Normal
+PP-16644,NIHVD745KFZND,M12,12,
+PP-16644,NIHVD745KFZND,M24,24,
+PP-16785,,M0,0,"Abnormal, not clinically significant"
+PP-17608,NIHKM658DREZL,M0,0,"Abnormal, not clinically significant"
+PP-18026,NIHGZ644HRVT2,M0,0,"Abnormal, not clinically significant"
+PP-18491,NIHGG785DXNAR,M0,0,Normal
+PP-18502,NIHRT600LRKXH,M0,0,Normal
+PP-18567,NIHEF598WBCEU,M0,0,"Abnormal, not clinically significant"
+PP-3000,NIHMH287FUYU0,M0,0,"Abnormal, not clinically significant"
+PP-3000,NIHMH287FUYU0,M60,60,
+PP-3001,,M0,0,"Abnormal, not clinically significant"
+PP-3002,NIHPA486DBPC0,M0,0,"Abnormal, not clinically significant"
+PP-3003,NIHGX351KXXNK,M0,0,Normal
+PP-3004,NIHEN597JZPH0,M0,0,"Abnormal, not clinically significant"
+PP-3006,,M0,0,"Abnormal, not clinically significant"
+PP-3007,,M0,0,"Abnormal, not clinically significant"
+PP-3008,,M0,0,"Abnormal, not clinically significant"
+PP-3009,,M0,0,
+PP-3010,,M0,0,Normal
+PP-3011,,M0,0,Normal
+PP-3012,NIHFA486HJAJU,M0,0,"Abnormal, not clinically significant"
+PP-3013,,M0,0,"Abnormal, not clinically significant"
+PP-3014,,M0,0,"Abnormal, not clinically significant"
+PP-3016,NIHNA336VUMWH,M0,0,Normal
+PP-3018,NIHCM088YZYYM,M0,0,Normal
+PP-3020,,M0,0,Normal
+PP-3021,NIHPA185MTFHZ,M0,0,"Abnormal, not clinically significant"
+PP-3022,,M0,0,
+PP-3023,NIHWG660KWDCM,M0,0,"Abnormal, not clinically significant"
+PP-3024,NIHMP452LMCXK,M0,0,Normal
+PP-3025,,M0,0,
+PP-3026,,M0,0,"Abnormal, not clinically significant"
+PP-3027,NIHXK940CKGJD,M0,0,"Abnormal, not clinically significant"
+PP-3028,NIHBU548DDXX7,M0,0,"Abnormal, not clinically significant"
+PP-3029,NIHWC147EDEHG,M0,0,"Abnormal, clinically significant"
+PP-3050,,M0,0,"Abnormal, not clinically significant"
+PP-3051,NIHRL068DDJG7,M0,0,"Abnormal, not clinically significant"
+PP-3052,,M0,0,"Abnormal, not clinically significant"
+PP-3053,,M0,0,"Abnormal, not clinically significant"
+PP-3054,NIHBY219XNUT8,M0,0,Normal
+PP-3055,NIHGG097MTLU9,M0,0,Normal
+PP-3056,NIHRU091FHPTC,M0,0,Normal
+PP-3057,,M0,0,"Abnormal, not clinically significant"
+PP-3058,,M0,0,
+PP-3059,,M0,0,"Abnormal, not clinically significant"
+PP-3060,NIHFJ792GLDXC,M0,0,Normal
+PP-3061,,M0,0,Normal
+PP-3062,NIHNU785AULLD,M0,0,"Abnormal, not clinically significant"
+PP-3063,,M0,0,Normal
+PP-3064,,M0,0,Normal
+PP-3066,NIHPU311EPRX5,M0,0,"Abnormal, not clinically significant"
+PP-3067,NIHLD931YCYHM,M0,0,Normal
+PP-3068,,M0,0,Normal
+PP-3069,,M0,0,Normal
+PP-3071,NIHXD621UYKE4,M0,0,Normal
+PP-3072,NIHWB852YDVV2,M0,0,Normal
+PP-3073,NIHJY146PTYNL,M0,0,Normal
+PP-3074,NIHNL949EKXZ6,M0,0,Normal
+PP-3075,,M0,0,"Abnormal, not clinically significant"
+PP-3076,,M0,0,"Abnormal, not clinically significant"
+PP-3077,NIHPH936CUWED,M0,0,"Abnormal, not clinically significant"
+PP-3078,NIHFT140KGMKL,M0,0,"Abnormal, clinically significant"
+PP-3079,,M0,0,"Abnormal, not clinically significant"
+PP-3080,,M0,0,Normal
+PP-3081,,M0,0,Normal
+PP-3082,NIHLT812KPPRY,M0,0,Normal
+PP-3083,,M0,0,Normal
+PP-3085,NIHMZ288MWNW4,M0,0,
+PP-3086,NIHHA092KGGXH,M0,0,Normal
+PP-3087,,M0,0,
+PP-3088,NIHCX884VVEBH,M0,0,"Abnormal, not clinically significant"
+PP-3089,NIHWC334FVPGZ,M0,0,Normal
+PP-3100,NIHFA327EPFAT,M0,0,
+PP-3100,NIHFA327EPFAT,M12,12,
+PP-3100,NIHFA327EPFAT,M24,24,
+PP-3100,NIHFA327EPFAT,M36,36,
+PP-3100,NIHFA327EPFAT,M48,48,
+PP-3100,NIHFA327EPFAT,M60,60,
+PP-3101,,M0,0,Normal
+PP-3101,,M12,12,
+PP-3101,,M24,24,
+PP-3102,,M0,0,Normal
+PP-3102,,M12,12,Normal
+PP-3102,,M24,24,
+PP-3102,,M48,48,
+PP-3104,,M0,0,Normal
+PP-3104,,M12,12,
+PP-3104,,M24,24,
+PP-3105,,M0,0,Normal
+PP-3105,,M12,12,
+PP-3105,,M24,24,
+PP-3105,,M48,48,
+PP-3106,,M0,0,Normal
+PP-3106,,M12,12,
+PP-3106,,M24,24,
+PP-3106,,M48,48,
+PP-3107,,M0,0,Normal
+PP-3107,,M12,12,
+PP-3107,,M24,24,
+PP-3107,,M48,48,
+PP-3107,,M60,60,
+PP-3108,NIHLM121MJMDP,M0,0,Normal
+PP-3108,NIHLM121MJMDP,M12,12,
+PP-3108,NIHLM121MJMDP,M24,24,
+PP-3108,NIHLM121MJMDP,M48,48,
+PP-3109,,M0,0,Normal
+PP-3109,,M12,12,
+PP-3109,,M24,24,
+PP-3110,NIHRN973BFEZZ,M0,0,
+PP-3110,NIHRN973BFEZZ,M12,12,
+PP-3110,NIHRN973BFEZZ,M24,24,
+PP-3110,NIHRN973BFEZZ,M48,48,
+PP-3111,NIHPC441KVFHV,M0,0,Normal
+PP-3111,NIHPC441KVFHV,M12,12,
+PP-3111,NIHPC441KVFHV,M24,24,
+PP-3112,,M0,0,Normal
+PP-3112,,M12,12,
+PP-3112,,M24,24,
+PP-3113,,M0,0,Normal
+PP-3113,,M12,12,
+PP-3113,,M24,24,
+PP-3114,,M0,0,Normal
+PP-3114,,M12,12,
+PP-3114,,M24,24,
+PP-3115,,M0,0,Normal
+PP-3115,,M12,12,
+PP-3115,,M24,24,
+PP-3116,,M0,0,Normal
+PP-3116,,M12,12,
+PP-3116,,M24,24,
+PP-3116,,M48,48,
+PP-3118,NIHHG740LFYEM,M0,0,Normal
+PP-3118,NIHHG740LFYEM,M12,12,
+PP-3118,NIHHG740LFYEM,M24,24,
+PP-3118,NIHHG740LFYEM,M48,48,
+PP-3119,NIHHD557CTLT3,M0,0,Normal
+PP-3119,NIHHD557CTLT3,M12,12,
+PP-3119,NIHHD557CTLT3,M24,24,
+PP-3119,NIHHD557CTLT3,M48,48,
+PP-3120,NIHYG984DFGGN,M0,0,Normal
+PP-3120,NIHYG984DFGGN,M12,12,
+PP-3120,NIHYG984DFGGN,M24,24,
+PP-3120,NIHYG984DFGGN,M48,48,
+PP-3122,,M0,0,Normal
+PP-3122,,M12,12,
+PP-3122,,M24,24,
+PP-3122,,M48,48,
+PP-3123,NIHRK730RCYPW,M0,0,Normal
+PP-3123,NIHRK730RCYPW,M12,12,
+PP-3123,NIHRK730RCYPW,M24,24,
+PP-3123,NIHRK730RCYPW,M48,48,
+PP-3124,,M0,0,Normal
+PP-3124,,M12,12,
+PP-3124,,M24,24,
+PP-3124,,M48,48,
+PP-3125,NIHFJ580VNKX4,M0,0,Normal
+PP-3125,NIHFJ580VNKX4,M12,12,
+PP-3125,NIHFJ580VNKX4,M24,24,
+PP-3125,NIHFJ580VNKX4,M48,48,
+PP-3126,NIHLT323HGMLL,M0,0,Normal
+PP-3126,NIHLT323HGMLL,M12,12,
+PP-3126,NIHLT323HGMLL,M24,24,
+PP-3126,NIHLT323HGMLL,M48,48,
+PP-3127,NIHMA857FEWM6,M0,0,Normal
+PP-3127,NIHMA857FEWM6,M48,48,
+PP-3128,NIHVJ699HFVV4,M0,0,Normal
+PP-3128,NIHVJ699HFVV4,M12,12,
+PP-3128,NIHVJ699HFVV4,M24,24,
+PP-3128,NIHVJ699HFVV4,M48,48,
+PP-3129,,M0,0,Normal
+PP-3129,,M12,12,
+PP-3130,NIHLH418YZXZB,M0,0,Normal
+PP-3130,NIHLH418YZXZB,M12,12,
+PP-3130,NIHLH418YZXZB,M24,24,
+PP-3130,NIHLH418YZXZB,M48,48,
+PP-3131,,M0,0,Normal
+PP-3131,,M12,12,
+PP-3131,,M24,24,
+PP-3132,NIHNK127UUTMV,M0,0,Normal
+PP-3132,NIHNK127UUTMV,M12,12,
+PP-3132,NIHNK127UUTMV,M24,24,
+PP-3132,NIHNK127UUTMV,M48,48,
+PP-3134,,M0,0,Normal
+PP-3134,,M12,12,
+PP-3134,,M24,24,
+PP-3134,,M48,48,
+PP-3150,,M0,0,Normal
+PP-3150,,M12,12,
+PP-3150,,M24,24,
+PP-3151,,M0,0,"Abnormal, not clinically significant"
+PP-3151,,M12,12,
+PP-3154,NIHLX972AHATQ,M0,0,Normal
+PP-3154,NIHLX972AHATQ,M12,12,
+PP-3154,NIHLX972AHATQ,M24,24,
+PP-3154,NIHLX972AHATQ,M48,48,
+PP-3156,,M0,0,"Abnormal, not clinically significant"
+PP-3156,,M12,12,
+PP-3157,NIHEE605YZGDZ,M0,0,"Abnormal, not clinically significant"
+PP-3157,NIHEE605YZGDZ,M12,12,
+PP-3160,NIHWN900LCFRV,M0,0,"Abnormal, not clinically significant"
+PP-3160,NIHWN900LCFRV,M12,12,
+PP-3161,,M0,0,Normal
+PP-3161,,M12,12,
+PP-3162,NIHFW395DAMK2,M0,0,
+PP-3162,NIHFW395DAMK2,M12,12,
+PP-3162,NIHFW395DAMK2,M24,24,
+PP-3162,NIHFW395DAMK2,M48,48,
+PP-3164,,M0,0,
+PP-3165,NIHGL989WVWKY,M0,0,"Abnormal, not clinically significant"
+PP-3165,NIHGL989WVWKY,M12,12,
+PP-3166,NIHUP889GAKJQ,M0,0,"Abnormal, not clinically significant"
+PP-3166,NIHUP889GAKJQ,M12,12,
+PP-3166,NIHUP889GAKJQ,M24,24,
+PP-3166,NIHUP889GAKJQ,M48,48,
+PP-3167,,M0,0,Normal
+PP-3168,,M0,0,Normal
+PP-3168,,M12,12,
+PP-3168,,M24,24,
+PP-3168,,M48,48,
+PP-3169,NIHGL242FZERG,M0,0,Normal
+PP-3169,NIHGL242FZERG,M12,12,
+PP-3170,NIHVH992WAWXB,M0,0,Normal
+PP-3170,NIHVH992WAWXB,M24,24,
+PP-3171,NIHND626HDJAJ,M0,0,Normal
+PP-3171,NIHND626HDJAJ,M12,12,
+PP-3172,,M0,0,Normal
+PP-3172,,M12,12,
+PP-3173,NIHLG713LZEF5,M0,0,Normal
+PP-3173,NIHLG713LZEF5,M12,12,
+PP-3173,NIHLG713LZEF5,M24,24,
+PP-3173,NIHLG713LZEF5,M48,48,
+PP-3174,NIHPE078PZHGL,M0,0,"Abnormal, not clinically significant"
+PP-3174,NIHPE078PZHGL,M12,12,
+PP-3174,NIHPE078PZHGL,M24,24,
+PP-3174,NIHPE078PZHGL,M48,48,
+PP-3176,,M0,0,"Abnormal, not clinically significant"
+PP-3176,,M12,12,
+PP-3176,,M30,30,
+PP-3178,,M0,0,"Abnormal, not clinically significant"
+PP-3178,,M12,12,
+PP-3178,,M24,24,
+PP-3178,,M48,48,
+PP-3179,NIHYY990JXXGK,M0,0,
+PP-3179,NIHYY990JXXGK,M12,12,
+PP-3179,NIHYY990JXXGK,M24,24,
+PP-3179,NIHYY990JXXGK,M3,3,"Abnormal, clinically significant"
+PP-3179,NIHYY990JXXGK,M48,48,
+PP-3180,NIHKV858RCCKR,M0,0,
+PP-3180,NIHKV858RCCKR,M12,12,
+PP-3180,NIHKV858RCCKR,M24,24,
+PP-3180,NIHKV858RCCKR,M48,48,
+PP-3181,NIHMV664DAAP4,M0,0,Normal
+PP-3181,NIHMV664DAAP4,M12,12,
+PP-3181,NIHMV664DAAP4,M18,18,
+PP-3181,NIHMV664DAAP4,M24,24,
+PP-3182,NIHRR601JNVFG,M0,0,Normal
+PP-3182,NIHRR601JNVFG,M12,12,
+PP-3182,NIHRR601JNVFG,M24,24,
+PP-3182,NIHRR601JNVFG,M48,48,
+PP-3183,NIHVP110LJPJQ,M0,0,"Abnormal, clinically significant"
+PP-3183,NIHVP110LJPJQ,M24,24,
+PP-3184,NIHNK046NHJKV,M0,0,Normal
+PP-3184,NIHNK046NHJKV,M12,12,
+PP-3184,NIHNK046NHJKV,M24,24,
+PP-3184,NIHNK046NHJKV,M48,48,
+PP-3185,NIHFK071JTTZN,M0,0,Normal
+PP-3185,NIHFK071JTTZN,M12,12,
+PP-3185,NIHFK071JTTZN,M24,24,
+PP-3186,,M0,0,Normal
+PP-3186,,M12,12,
+PP-3186,,M24,24,
+PP-3188,NIHBA609LZFNY,M0,0,Normal
+PP-3188,NIHBA609LZFNY,M12,12,
+PP-3188,NIHBA609LZFNY,M18,18,
+PP-3189,NIHLR457HJPWH,M0,0,"Abnormal, not clinically significant"
+PP-3189,NIHLR457HJPWH,M24,24,
+PP-3190,NIHXJ316RHTCC,M0,0,Normal
+PP-3190,NIHXJ316RHTCC,M12,12,
+PP-3190,NIHXJ316RHTCC,M24,24,
+PP-3190,NIHXJ316RHTCC,M48,48,
+PP-3191,NIHHJ193DTYBG,M0,0,Normal
+PP-3191,NIHHJ193DTYBG,M12,12,
+PP-3200,NIHAH868UPMEW,M0,0,Normal
+PP-3201,,M0,0,Normal
+PP-3203,NIHWN903MKLZC,M0,0,"Abnormal, not clinically significant"
+PP-3205,NIHVX678JZAFF,M0,0,Normal
+PP-3206,,M0,0,Normal
+PP-3207,NIHKU302RHWZD,M0,0,
+PP-3209,,M0,0,"Abnormal, not clinically significant"
+PP-3211,NIHVZ612VMBT0,M0,0,Normal
+PP-3212,,M0,0,
+PP-3213,,M0,0,Normal
+PP-3214,,M0,0,
+PP-3215,,M0,0,Normal
+PP-3216,NIHDB832PVPHK,M0,0,"Abnormal, not clinically significant"
+PP-3217,NIHCB807VPTDA,M0,0,
+PP-3218,NIHRR341LABVF,M0,0,Normal
+PP-3219,NIHHA912ZGKM9,M0,0,"Abnormal, not clinically significant"
+PP-3220,,M0,0,"Abnormal, not clinically significant"
+PP-3221,NIHPT120EFUXZ,M0,0,"Abnormal, not clinically significant"
+PP-3222,,M0,0,"Abnormal, clinically significant"
+PP-3223,NIHTX152KYHL9,M0,0,Normal
+PP-3224,,M0,0,Normal
+PP-3225,,M0,0,"Abnormal, not clinically significant"
+PP-3226,,M0,0,Normal
+PP-3227,,M0,0,Normal
+PP-3228,,M0,0,"Abnormal, not clinically significant"
+PP-3229,NIHTC364ZXEC8,M0,0,"Abnormal, not clinically significant"
+PP-3230,NIHRW103EJMHX,M0,0,Normal
+PP-3231,NIHEJ734LRCTL,M0,0,Normal
+PP-3232,,M0,0,Normal
+PP-3233,,M0,0,Normal
+PP-3234,NIHTH457YXKH7,M0,0,
+PP-3235,,M0,0,"Abnormal, clinically significant"
+PP-3237,NIHFC465GRFPY,M0,0,Normal
+PP-3251,NIHAM187EJWD4,M0,0,"Abnormal, not clinically significant"
+PP-3252,NIHMP288LRMY7,M0,0,"Abnormal, not clinically significant"
+PP-3253,,M0,0,"Abnormal, not clinically significant"
+PP-3254,,M0,0,"Abnormal, not clinically significant"
+PP-3256,,M0,0,"Abnormal, not clinically significant"
+PP-3257,,M0,0,"Abnormal, not clinically significant"
+PP-3260,,M0,0,"Abnormal, not clinically significant"
+PP-3262,,M0,0,"Abnormal, not clinically significant"
+PP-3264,NIHGN729WTXDT,M0,0,"Abnormal, not clinically significant"
+PP-3267,,M0,0,Normal
+PP-3268,,M0,0,"Abnormal, not clinically significant"
+PP-3269,NIHWC639NHCRG,M0,0,"Abnormal, not clinically significant"
+PP-3270,,M0,0,"Abnormal, not clinically significant"
+PP-3270,,M60,60,
+PP-3271,,M0,0,"Abnormal, not clinically significant"
+PP-3272,,M0,0,Normal
+PP-3274,,M0,0,"Abnormal, not clinically significant"
+PP-3275,,M0,0,"Abnormal, not clinically significant"
+PP-3276,,M0,0,"Abnormal, not clinically significant"
+PP-3277,NIHXL291RFHZH,M0,0,"Abnormal, not clinically significant"
+PP-3278,,M0,0,Normal
+PP-3279,,M0,0,"Abnormal, not clinically significant"
+PP-3280,NIHRA837HPHD8,M0,0,"Abnormal, not clinically significant"
+PP-3281,,M0,0,"Abnormal, not clinically significant"
+PP-3282,,M0,0,
+PP-3285,NIHBX356THUUP,M0,0,"Abnormal, not clinically significant"
+PP-3288,,M0,0,Normal
+PP-3290,,M0,0,Normal
+PP-3300,NIHVY837YBRNX,M0,0,Normal
+PP-3300,NIHVY837YBRNX,M12,12,Normal
+PP-3301,NIHTW423MGJP2,M0,0,Normal
+PP-3301,NIHTW423MGJP2,M12,12,Normal
+PP-3301,NIHTW423MGJP2,M24,24,Normal
+PP-3301,NIHTW423MGJP2,M48,48,
+PP-3304,,M0,0,Normal
+PP-3304,,M12,12,Normal
+PP-3304,,M24,24,
+PP-3305,NIHHA790FXDEM,M0,0,"Abnormal, not clinically significant"
+PP-3305,NIHHA790FXDEM,M12,12,"Abnormal, not clinically significant"
+PP-3307,,M0,0,"Abnormal, not clinically significant"
+PP-3307,,M12,12,"Abnormal, not clinically significant"
+PP-3307,,M24,24,
+PP-3307,,M48,48,
+PP-3308,NIHJF892PVJWE,M0,0,Normal
+PP-3308,NIHJF892PVJWE,M12,12,"Abnormal, not clinically significant"
+PP-3308,NIHJF892PVJWE,M24,24,
+PP-3308,NIHJF892PVJWE,M48,48,
+PP-3309,NIHJM292KHJF5,M0,0,"Abnormal, not clinically significant"
+PP-3309,NIHJM292KHJF5,M12,12,Normal
+PP-3309,NIHJM292KHJF5,M24,24,Normal
+PP-3309,NIHJM292KHJF5,M48,48,
+PP-3310,NIHYZ669LYHVW,M0,0,"Abnormal, not clinically significant"
+PP-3310,NIHYZ669LYHVW,M12,12,"Abnormal, not clinically significant"
+PP-3310,NIHYZ669LYHVW,M48,48,
+PP-3311,,M0,0,"Abnormal, not clinically significant"
+PP-3312,NIHWY164AHETJ,M0,0,
+PP-3312,NIHWY164AHETJ,M12,12,
+PP-3312,NIHWY164AHETJ,M24,24,
+PP-3312,NIHWY164AHETJ,M48,48,
+PP-3313,,M0,0,
+PP-3313,,M48,48,
+PP-3314,,M0,0,"Abnormal, not clinically significant"
+PP-3314,,M12,12,"Abnormal, not clinically significant"
+PP-3316,NIHFK821FNNZ9,M0,0,"Abnormal, not clinically significant"
+PP-3316,NIHFK821FNNZ9,M24,24,
+PP-3318,NIHDG752AHTM3,M0,0,
+PP-3318,NIHDG752AHTM3,M12,12,"Abnormal, not clinically significant"
+PP-3318,NIHDG752AHTM3,M24,24,
+PP-3318,NIHDG752AHTM3,M3,3,Normal
+PP-3319,,M0,0,
+PP-3319,,M12,12,Normal
+PP-3319,,M24,24,
+PP-3320,NIHRN991MJTLP,M0,0,"Abnormal, not clinically significant"
+PP-3320,NIHRN991MJTLP,M12,12,
+PP-3320,NIHRN991MJTLP,M24,24,
+PP-3321,,M0,0,"Abnormal, not clinically significant"
+PP-3321,,M24,24,
+PP-3321,,M48,48,
+PP-3322,,M0,0,"Abnormal, not clinically significant"
+PP-3322,,M24,24,
+PP-3322,,M48,48,
+PP-3323,,M0,0,"Abnormal, not clinically significant"
+PP-3323,,M12,12,
+PP-3323,,M24,24,
+PP-3323,,M48,48,
+PP-3324,,M0,0,Normal
+PP-3324,,M24,24,
+PP-3325,NIHXJ575RTWMV,M0,0,"Abnormal, not clinically significant"
+PP-3325,NIHXJ575RTWMV,M12,12,Normal
+PP-3325,NIHXJ575RTWMV,M24,24,
+PP-3325,NIHXJ575RTWMV,M48,48,
+PP-3326,,M0,0,"Abnormal, not clinically significant"
+PP-3326,,M24,24,
+PP-3327,NIHJK703XDCUC,M0,0,"Abnormal, not clinically significant"
+PP-3327,NIHJK703XDCUC,M12,12,"Abnormal, not clinically significant"
+PP-3327,NIHJK703XDCUC,M24,24,
+PP-3327,NIHJK703XDCUC,M48,48,
+PP-3328,,M0,0,Normal
+PP-3328,,M12,12,
+PP-3328,,M24,24,
+PP-3328,,M48,48,
+PP-3330,,M0,0,
+PP-3332,NIHML886KMPYN,M0,0,"Abnormal, not clinically significant"
+PP-3332,NIHML886KMPYN,M12,12,
+PP-3332,NIHML886KMPYN,M24,24,
+PP-3332,NIHML886KMPYN,M48,48,
+PP-3333,,M0,0,
+PP-3333,,M12,12,
+PP-3333,,M24,24,
+PP-3333,,M48,48,
+PP-3350,NIHFL565KGCM8,M0,0,"Abnormal, not clinically significant"
+PP-3350,NIHFL565KGCM8,M12,12,"Abnormal, not clinically significant"
+PP-3350,NIHFL565KGCM8,M48,48,
+PP-3350,NIHFL565KGCM8,M60,60,
+PP-3351,,M0,0,"Abnormal, clinically significant"
+PP-3351,,M12,12,
+PP-3351,,M48,48,
+PP-3352,,M0,0,Normal
+PP-3352,,M12,12,
+PP-3352,,M24,24,
+PP-3352,,M48,48,
+PP-3353,,M0,0,"Abnormal, not clinically significant"
+PP-3353,,M12,12,
+PP-3353,,M48,48,
+PP-3354,NIHDW736KPDJ3,M0,0,"Abnormal, not clinically significant"
+PP-3354,NIHDW736KPDJ3,M12,12,
+PP-3354,NIHDW736KPDJ3,M24,24,
+PP-3354,NIHDW736KPDJ3,M48,48,
+PP-3355,,M0,0,Normal
+PP-3355,,M12,12,
+PP-3355,,M48,48,
+PP-3356,,M0,0,"Abnormal, not clinically significant"
+PP-3356,,M12,12,
+PP-3356,,M24,24,
+PP-3357,,M0,0,"Abnormal, not clinically significant"
+PP-3357,,M12,12,
+PP-3357,,M48,48,
+PP-3358,,M0,0,"Abnormal, not clinically significant"
+PP-3358,,M12,12,
+PP-3358,,M24,24,
+PP-3359,,M0,0,"Abnormal, not clinically significant"
+PP-3359,,M12,12,
+PP-3359,,M24,24,
+PP-3359,,M48,48,
+PP-3360,,M0,0,"Abnormal, not clinically significant"
+PP-3360,,M12,12,
+PP-3360,,M24,24,
+PP-3360,,M48,48,
+PP-3361,NIHMH325ABHLB,M0,0,"Abnormal, not clinically significant"
+PP-3361,NIHMH325ABHLB,M12,12,
+PP-3362,NIHTN323VJJZN,M0,0,Normal
+PP-3362,NIHTN323VJJZN,M12,12,
+PP-3363,,M0,0,
+PP-3363,,M12,12,
+PP-3364,NIHPR039TDGYU,M0,0,Normal
+PP-3364,NIHPR039TDGYU,M12,12,
+PP-3364,NIHPR039TDGYU,M24,24,
+PP-3364,NIHPR039TDGYU,M48,48,
+PP-3365,NIHTH945ZJJH1,M0,0,Normal
+PP-3365,NIHTH945ZJJH1,M12,12,
+PP-3365,NIHTH945ZJJH1,M24,24,
+PP-3365,NIHTH945ZJJH1,M48,48,
+PP-3366,,M0,0,"Abnormal, not clinically significant"
+PP-3366,,M12,12,
+PP-3366,,M24,24,
+PP-3366,,M48,48,
+PP-3367,,M0,0,Normal
+PP-3367,,M12,12,
+PP-3367,,M24,24,
+PP-3367,,M48,48,
+PP-3368,NIHPP760NMMK1,M0,0,Normal
+PP-3368,NIHPP760NMMK1,M12,12,
+PP-3369,,M0,0,Normal
+PP-3369,,M12,12,Normal
+PP-3369,,M48,48,
+PP-3370,,M0,0,Normal
+PP-3371,NIHBX053DVAXE,M0,0,Normal
+PP-3371,NIHBX053DVAXE,M12,12,
+PP-3371,NIHBX053DVAXE,M24,24,
+PP-3371,NIHBX053DVAXE,M48,48,
+PP-3372,NIHNN173HEYAQ,M0,0,"Abnormal, not clinically significant"
+PP-3372,NIHNN173HEYAQ,M12,12,
+PP-3372,NIHNN173HEYAQ,M24,24,
+PP-3372,NIHNN173HEYAQ,M48,48,
+PP-3373,,M0,0,Normal
+PP-3373,,M12,12,
+PP-3373,,M24,24,
+PP-3373,,M48,48,
+PP-3374,,M0,0,"Abnormal, not clinically significant"
+PP-3374,,M12,12,
+PP-3374,,M24,24,
+PP-3374,,M48,48,
+PP-3375,,M0,0,Normal
+PP-3375,,M12,12,
+PP-3375,,M24,24,
+PP-3376,,M0,0,"Abnormal, not clinically significant"
+PP-3377,NIHTD071BMFBP,M0,0,Normal
+PP-3377,NIHTD071BMFBP,M12,12,
+PP-3377,NIHTD071BMFBP,M24,24,
+PP-3377,NIHTD071BMFBP,M48,48,
+PP-3378,,M0,0,Normal
+PP-3378,,M12,12,
+PP-3378,,M24,24,
+PP-3378,,M48,48,
+PP-3380,,M0,0,"Abnormal, not clinically significant"
+PP-3380,,M12,12,
+PP-3380,,M24,24,
+PP-3380,,M48,48,
+PP-3381,,M0,0,Normal
+PP-3381,,M12,12,
+PP-3383,NIHJK490ADCBW,M0,0,Normal
+PP-3383,NIHJK490ADCBW,M12,12,
+PP-3383,NIHJK490ADCBW,M24,24,
+PP-3383,NIHJK490ADCBW,M48,48,
+PP-3384,,M0,0,"Abnormal, not clinically significant"
+PP-3384,,M24,24,
+PP-3385,,M0,0,Normal
+PP-3385,,M12,12,
+PP-3385,,M24,24,
+PP-3385,,M48,48,
+PP-3386,,M0,0,"Abnormal, not clinically significant"
+PP-3386,,M12,12,
+PP-3386,,M24,24,
+PP-3386,,M48,48,
+PP-3387,,M0,0,Normal
+PP-3387,,M12,12,
+PP-3387,,M24,24,
+PP-3387,,M48,48,
+PP-3389,,M0,0,Normal
+PP-3389,,M12,12,
+PP-3390,,M0,0,
+PP-3390,,M12,12,
+PP-3390,,M3,3,Normal
+PP-3392,NIHCG320VYDCM,M0,0,Normal
+PP-3392,NIHCG320VYDCM,M12,12,
+PP-3392,NIHCG320VYDCM,M24,24,
+PP-3392,NIHCG320VYDCM,M48,48,
+PP-3400,NIHJF472EGWD6,M0,0,"Abnormal, not clinically significant"
+PP-3401,,M0,0,Normal
+PP-3402,,M0,0,Normal
+PP-3403,,M0,0,"Abnormal, not clinically significant"
+PP-3404,NIHUE743LCLDR,M0,0,"Abnormal, not clinically significant"
+PP-3405,,M0,0,Normal
+PP-3406,NIHHP401UUFWB,M0,0,Normal
+PP-3407,,M0,0,Normal
+PP-3408,,M0,0,Normal
+PP-3409,NIHPL421YXZKF,M0,0,Normal
+PP-3410,NIHKA883CUGLA,M0,0,Normal
+PP-3411,NIHXF638KZXAQ,M0,0,"Abnormal, not clinically significant"
+PP-3413,,M0,0,Normal
+PP-3414,NIHTC366PCNEW,M0,0,Normal
+PP-3415,NIHFF825PLPBL,M0,0,"Abnormal, not clinically significant"
+PP-3417,,M0,0,Normal
+PP-3418,,M0,0,"Abnormal, not clinically significant"
+PP-3419,NIHXW075GXNFC,M0,0,"Abnormal, not clinically significant"
+PP-3420,NIHDZ328LLNB9,M0,0,Normal
+PP-3421,,M0,0,"Abnormal, not clinically significant"
+PP-3422,NIHYM688ACBLH,M0,0,"Abnormal, not clinically significant"
+PP-3423,NIHGV569LBKHB,M0,0,"Abnormal, not clinically significant"
+PP-3424,NIHHK872TDXVU,M0,0,"Abnormal, not clinically significant"
+PP-3425,,M0,0,Normal
+PP-3426,,M0,0,"Abnormal, not clinically significant"
+PP-3428,NIHFP296BUXMW,M0,0,Normal
+PP-3429,,M0,0,"Abnormal, not clinically significant"
+PP-3430,NIHRE530UFGWL,M0,0,Normal
+PP-3431,NIHMT480ZDYRF,M0,0,Normal
+PP-3432,,M0,0,
+PP-3432,,M3,3,Normal
+PP-3433,NIHAA107VTGPE,M0,0,"Abnormal, not clinically significant"
+PP-3434,NIHAE587EYZGL,M0,0,Normal
+PP-3435,NIHNC751RHAYF,M0,0,"Abnormal, not clinically significant"
+PP-3436,,M0,0,"Abnormal, not clinically significant"
+PP-3439,,M0,0,Normal
+PP-3440,,M0,0,"Abnormal, not clinically significant"
+PP-3441,,M0,0,"Abnormal, not clinically significant"
+PP-3442,,M0,0,Normal
+PP-3443,NIHYB677VXUCN,M0,0,Normal
+PP-3444,NIHRF357CLCG8,M0,0,Normal
+PP-3445,NIHLT131WGYNV,M0,0,Normal
+PP-3446,,M0,0,Normal
+PP-3447,,M0,0,
+PP-3448,,M0,0,"Abnormal, not clinically significant"
+PP-3450,,M0,0,"Abnormal, not clinically significant"
+PP-3451,NIHHE038PRNAD,M0,0,"Abnormal, not clinically significant"
+PP-3452,NIHKJ474NLMJ9,M0,0,"Abnormal, not clinically significant"
+PP-3453,NIHEE810XEETV,M0,0,"Abnormal, not clinically significant"
+PP-3454,NIHGH376RTMRA,M0,0,"Abnormal, not clinically significant"
+PP-3455,,M0,0,"Abnormal, not clinically significant"
+PP-3456,,M0,0,"Abnormal, not clinically significant"
+PP-3457,,M0,0,"Abnormal, not clinically significant"
+PP-3458,NIHMF089GFETB,M0,0,"Abnormal, not clinically significant"
+PP-3459,NIHVY455VDRL1,M0,0,"Abnormal, not clinically significant"
+PP-3460,,M0,0,"Abnormal, not clinically significant"
+PP-3461,,M0,0,"Abnormal, clinically significant"
+PP-3462,,M0,0,Normal
+PP-3464,NIHEJ886UCYJU,M0,0,"Abnormal, not clinically significant"
+PP-3465,NIHUL494TBTKA,M0,0,"Abnormal, not clinically significant"
+PP-3466,NIHCM711BHCHU,M0,0,Normal
+PP-3467,,M0,0,"Abnormal, not clinically significant"
+PP-3468,NIHAE667VUGET,M0,0,"Abnormal, not clinically significant"
+PP-3469,,M0,0,"Abnormal, not clinically significant"
+PP-3470,NIHKJ096KYFK1,M0,0,"Abnormal, not clinically significant"
+PP-3471,,M0,0,"Abnormal, not clinically significant"
+PP-3472,NIHFR379RWHG6,M0,0,"Abnormal, not clinically significant"
+PP-3473,NIHUC705XBWDY,M0,0,"Abnormal, not clinically significant"
+PP-3475,NIHEB365NVTH7,M0,0,"Abnormal, not clinically significant"
+PP-3476,,M0,0,"Abnormal, clinically significant"
+PP-3478,,M0,0,"Abnormal, not clinically significant"
+PP-3479,NIHDV494ZHMKZ,M0,0,Normal
+PP-3480,,M0,0,"Abnormal, not clinically significant"
+PP-3481,NIHKD275DZYE5,M0,0,"Abnormal, not clinically significant"
+PP-3481,NIHKD275DZYE5,M60,60,
+PP-3482,NIHJK013HZNU3,M0,0,"Abnormal, not clinically significant"
+PP-3500,NIHFA960HYJYB,M0,0,Normal
+PP-3500,NIHFA960HYJYB,M12,12,Normal
+PP-3501,NIHPF531HJWVQ,M0,0,Normal
+PP-3501,NIHPF531HJWVQ,M12,12,
+PP-3502,,M0,0,Normal
+PP-3502,,M12,12,
+PP-3503,NIHGN102KWYKJ,M0,0,Normal
+PP-3505,,M0,0,"Abnormal, not clinically significant"
+PP-3506,,M0,0,Normal
+PP-3507,,M0,0,Normal
+PP-3510,,M0,0,Normal
+PP-3512,,M0,0,Normal
+PP-3514,,M0,0,"Abnormal, clinically significant"
+PP-3515,,M0,0,Normal
+PP-3516,NIHKJ723YELEH,M0,0,"Abnormal, clinically significant"
+PP-3517,NIHGK599VZUAB,M0,0,Normal
+PP-3518,,M0,0,Normal
+PP-3519,,M0,0,Normal
+PP-3520,,M0,0,"Abnormal, not clinically significant"
+PP-3521,NIHBH228FJFAX,M0,0,Normal
+PP-3522,NIHMY371VNDYZ,M0,0,Normal
+PP-3523,,M0,0,Normal
+PP-3525,NIHFB234NYWWN,M0,0,Normal
+PP-3526,,M0,0,Normal
+PP-3527,,M0,0,Normal
+PP-3528,NIHVL888JVEL7,M0,0,Normal
+PP-3529,,M0,0,Normal
+PP-3530,,M0,0,Normal
+PP-3532,,M0,0,Normal
+PP-3536,,M0,0,Normal
+PP-3537,,M0,0,
+PP-3538,,M0,0,Normal
+PP-3539,,M0,0,Normal
+PP-3540,,M0,0,Normal
+PP-3541,,M0,0,Normal
+PP-3542,NIHUK900CRVTT,M0,0,"Abnormal, not clinically significant"
+PP-3543,,M0,0,
+PP-3544,,M0,0,Normal
+PP-3550,,M0,0,Normal
+PP-3550,,M24,24,
+PP-3551,NIHKA407LXEXP,M0,0,Normal
+PP-3551,NIHKA407LXEXP,M12,12,Normal
+PP-3551,NIHKA407LXEXP,M48,48,
+PP-3551,NIHKA407LXEXP,M60,60,
+PP-3552,,M0,0,Normal
+PP-3552,,M12,12,Normal
+PP-3552,,M24,24,
+PP-3552,,M48,48,
+PP-3554,NIHJC863NKCXQ,M0,0,Normal
+PP-3554,NIHJC863NKCXQ,M12,12,"Abnormal, not clinically significant"
+PP-3554,NIHJC863NKCXQ,M48,48,
+PP-3555,,M0,0,"Abnormal, not clinically significant"
+PP-3556,NIHZD378GTMZZ,M0,0,Normal
+PP-3556,NIHZD378GTMZZ,M12,12,Normal
+PP-3556,NIHZD378GTMZZ,M24,24,
+PP-3556,NIHZD378GTMZZ,M48,48,
+PP-3557,NIHTJ673FBCKP,M0,0,Normal
+PP-3557,NIHTJ673FBCKP,M12,12,Normal
+PP-3557,NIHTJ673FBCKP,M24,24,
+PP-3557,NIHTJ673FBCKP,M48,48,
+PP-3558,,M0,0,Normal
+PP-3558,,M12,12,Normal
+PP-3558,,M24,24,
+PP-3559,,M0,0,Normal
+PP-3559,,M12,12,Normal
+PP-3559,,M24,24,
+PP-3559,,M48,48,
+PP-3563,NIHGP967KEMPH,M0,0,Normal
+PP-3563,NIHGP967KEMPH,M12,12,Normal
+PP-3563,NIHGP967KEMPH,M48,48,
+PP-3564,,M0,0,Normal
+PP-3564,,M12,12,
+PP-3564,,M24,24,
+PP-3564,,M48,48,
+PP-3565,NIHRX085RGRFD,M0,0,Normal
+PP-3565,NIHRX085RGRFD,M12,12,Normal
+PP-3565,NIHRX085RGRFD,M48,48,
+PP-3566,,M0,0,Normal
+PP-3566,,M24,24,
+PP-3567,NIHUH631HECK8,M0,0,Normal
+PP-3567,NIHUH631HECK8,M12,12,Normal
+PP-3567,NIHUH631HECK8,M24,24,
+PP-3567,NIHUH631HECK8,M48,48,
+PP-3569,,M0,0,Normal
+PP-3569,,M12,12,
+PP-3570,,M0,0,Normal
+PP-3570,,M12,12,"Abnormal, clinically significant"
+PP-3571,,M0,0,Normal
+PP-3571,,M12,12,Normal
+PP-3571,,M48,48,
+PP-3572,NIHYZ109KUWZE,M0,0,Normal
+PP-3572,NIHYZ109KUWZE,M12,12,
+PP-3573,,M0,0,Normal
+PP-3573,,M24,24,
+PP-3574,,M0,0,Normal
+PP-3574,,M12,12,
+PP-3574,,M24,24,
+PP-3574,,M48,48,
+PP-3575,,M0,0,Normal
+PP-3575,,M12,12,
+PP-3575,,M24,24,
+PP-3575,,M48,48,
+PP-3577,NIHVK690VYPGG,M0,0,Normal
+PP-3577,NIHVK690VYPGG,M12,12,
+PP-3577,NIHVK690VYPGG,M24,24,
+PP-3577,NIHVK690VYPGG,M48,48,
+PP-3580,,M0,0,Normal
+PP-3580,,M24,24,
+PP-3581,,M0,0,Normal
+PP-3581,,M24,24,
+PP-3582,,M0,0,Normal
+PP-3582,,M24,24,
+PP-3584,,M0,0,Normal
+PP-3584,,M12,12,
+PP-3585,NIHTU976XLZKP,M0,0,Normal
+PP-3585,NIHTU976XLZKP,M12,12,
+PP-3585,NIHTU976XLZKP,M24,24,Normal
+PP-3585,NIHTU976XLZKP,M48,48,
+PP-3586,NIHHR770GWANF,M0,0,Normal
+PP-3586,NIHHR770GWANF,M12,12,
+PP-3586,NIHHR770GWANF,M24,24,
+PP-3586,NIHHR770GWANF,M48,48,
+PP-3587,,M0,0,Normal
+PP-3587,,M12,12,
+PP-3587,,M24,24,
+PP-3587,,M48,48,
+PP-3588,,M0,0,Normal
+PP-3588,,M12,12,
+PP-3588,,M24,24,
+PP-3588,,M48,48,
+PP-3589,,M0,0,Normal
+PP-3589,,M12,12,
+PP-3589,,M24,24,
+PP-3591,NIHHA842URZJU,M0,0,Normal
+PP-3591,NIHHA842URZJU,M12,12,
+PP-3591,NIHHA842URZJU,M24,24,
+PP-3591,NIHHA842URZJU,M48,48,
+PP-3592,NIHAV820XXPJ6,M0,0,Normal
+PP-3592,NIHAV820XXPJ6,M12,12,
+PP-3592,NIHAV820XXPJ6,M24,24,
+PP-3592,NIHAV820XXPJ6,M48,48,
+PP-3593,,M0,0,Normal
+PP-3593,,M12,12,
+PP-3593,,M24,24,
+PP-3593,,M48,48,
+PP-3600,,M0,0,Normal
+PP-3601,NIHFC702JGNF8,M0,0,Normal
+PP-3603,NIHKT241AFJGT,M0,0,Normal
+PP-3604,,M0,0,Normal
+PP-3605,,M0,0,Normal
+PP-3605,,M60,60,
+PP-3606,,M0,0,Normal
+PP-3607,NIHZT982HKRG0,M0,0,Normal
+PP-3608,,M0,0,Normal
+PP-3609,,M0,0,Normal
+PP-3610,,M0,0,Normal
+PP-3611,NIHVC201YMVT7,M0,0,Normal
+PP-3612,NIHKP934PPEVG,M0,0,Normal
+PP-3613,NIHJF939EYYGG,M0,0,Normal
+PP-3614,NIHNX610WKNBM,M0,0,Normal
+PP-3615,NIHLG129KUXYL,M0,0,Normal
+PP-3616,NIHML180TBFZ2,M0,0,"Abnormal, clinically significant"
+PP-3617,,M0,0,Normal
+PP-3619,NIHWW296PWFZ8,M0,0,Normal
+PP-3620,,M0,0,Normal
+PP-3621,,M0,0,Normal
+PP-3622,NIHDD401RNDF7,M0,0,Normal
+PP-3624,NIHUU901BTEVW,M0,0,Normal
+PP-3625,NIHPP785JHVAF,M0,0,Normal
+PP-3627,,M0,0,Normal
+PP-3628,,M0,0,Normal
+PP-3629,NIHNX280WRFPX,M0,0,Normal
+PP-3630,,M0,0,Normal
+PP-3631,,M0,0,Normal
+PP-3632,,M0,0,Normal
+PP-3633,,M0,0,Normal
+PP-3634,NIHNJ274XUNYV,M0,0,Normal
+PP-3635,NIHRU043DXPB8,M0,0,Normal
+PP-3636,NIHBA695MMBVG,M0,0,Normal
+PP-3637,NIHGW112KJYTN,M0,0,Normal
+PP-3638,NIHNA340EADWL,M0,0,Normal
+PP-3650,,M0,0,Normal
+PP-3651,NIHRD501ZKDA1,M0,0,Normal
+PP-3653,,M0,0,Normal
+PP-3654,NIHBY902JCUH8,M0,0,Normal
+PP-3655,,M0,0,Normal
+PP-3656,NIHAV824MRBX9,M0,0,Normal
+PP-3657,,M0,0,Normal
+PP-3658,NIHZC973KJRW0,M0,0,Normal
+PP-3659,,M0,0,Normal
+PP-3660,,M0,0,Normal
+PP-3660,,M24,24,
+PP-3661,NIHCZ163VNMA8,M0,0,
+PP-3661,NIHCZ163VNMA8,M6,6,
+PP-3662,,M0,0,Normal
+PP-3664,,M0,0,Normal
+PP-3665,,M0,0,Normal
+PP-3666,NIHWM162VACDB,M0,0,Normal
+PP-3668,,M0,0,Normal
+PP-3700,,M0,0,Normal
+PP-3701,,M0,0,Normal
+PP-3702,,M0,0,Normal
+PP-3704,,M0,0,
+PP-3705,,M0,0,Normal
+PP-3707,,M0,0,Normal
+PP-3708,,M0,0,
+PP-3709,,M0,0,Normal
+PP-3710,,M0,0,Normal
+PP-3711,,M0,0,Normal
+PP-3750,,M0,0,"Abnormal, not clinically significant"
+PP-3750,,M12,12,Normal
+PP-3751,,M0,0,Normal
+PP-3751,,M12,12,
+PP-3751,,M24,24,Normal
+PP-3752,,M0,0,"Abnormal, clinically significant"
+PP-3752,,M12,12,Normal
+PP-3752,,M24,24,
+PP-3752,,M48,48,
+PP-3753,,M0,0,Normal
+PP-3753,,M12,12,
+PP-3754,,M0,0,
+PP-3754,,M12,12,
+PP-3755,,M0,0,
+PP-3755,,M12,12,Normal
+PP-3755,,M24,24,Normal
+PP-3756,,M0,0,"Abnormal, not clinically significant"
+PP-3756,,M12,12,Normal
+PP-3756,,M24,24,
+PP-3756,,M48,48,
+PP-3757,,M0,0,Normal
+PP-3757,,M12,12,Normal
+PP-3757,,M24,24,
+PP-3757,,M30,30,Normal
+PP-3757,,M48,48,
+PP-3758,,M0,0,"Abnormal, clinically significant"
+PP-3758,,M12,12,Normal
+PP-3758,,M24,24,Normal
+PP-3758,,M48,48,
+PP-3759,,M0,0,"Abnormal, not clinically significant"
+PP-3759,,M12,12,Normal
+PP-3759,,M24,24,
+PP-3760,,M0,0,Normal
+PP-3760,,M12,12,Normal
+PP-3760,,M24,24,Normal
+PP-3760,,M48,48,
+PP-3762,,M0,0,"Abnormal, not clinically significant"
+PP-3762,,M12,12,Normal
+PP-3762,,M24,24,"Abnormal, not clinically significant"
+PP-3762,,M48,48,
+PP-3763,,M0,0,"Abnormal, not clinically significant"
+PP-3763,,M12,12,Normal
+PP-3763,,M24,24,Normal
+PP-3763,,M48,48,
+PP-3764,,M0,0,Normal
+PP-3765,,M0,0,Normal
+PP-3765,,M12,12,Normal
+PP-3765,,M24,24,
+PP-3766,,M0,0,
+PP-3766,,M12,12,
+PP-3766,,M24,24,
+PP-3767,,M0,0,Normal
+PP-3767,,M12,12,Normal
+PP-3767,,M24,24,
+PP-3768,,M0,0,Normal
+PP-3768,,M12,12,Normal
+PP-3768,,M24,24,
+PP-3769,,M0,0,"Abnormal, not clinically significant"
+PP-3769,,M12,12,Normal
+PP-3769,,M24,24,
+PP-3770,,M0,0,Normal
+PP-3770,,M12,12,Normal
+PP-3770,,M24,24,Normal
+PP-3770,,M48,48,
+PP-3771,,M0,0,"Abnormal, not clinically significant"
+PP-3771,,M12,12,Normal
+PP-3771,,M24,24,Normal
+PP-3771,,M48,48,
+PP-3772,,M0,0,
+PP-3773,,M0,0,
+PP-3773,,M12,12,
+PP-3773,,M24,24,
+PP-3773,,M48,48,
+PP-3775,,M0,0,Normal
+PP-3775,,M12,12,Normal
+PP-3775,,M24,24,Normal
+PP-3775,,M48,48,
+PP-3776,,M0,0,"Abnormal, not clinically significant"
+PP-3776,,M12,12,Normal
+PP-3776,,M24,24,Normal
+PP-3776,,M48,48,
+PP-3777,,M0,0,"Abnormal, not clinically significant"
+PP-3777,,M12,12,"Abnormal, not clinically significant"
+PP-3777,,M24,24,Normal
+PP-3777,,M48,48,
+PP-3778,,M0,0,Normal
+PP-3778,,M12,12,Normal
+PP-3778,,M24,24,Normal
+PP-3778,,M48,48,
+PP-3779,,M0,0,Normal
+PP-3779,,M12,12,Normal
+PP-3780,,M0,0,"Abnormal, not clinically significant"
+PP-3780,,M12,12,"Abnormal, not clinically significant"
+PP-3780,,M24,24,Normal
+PP-3780,,M48,48,
+PP-3781,,M0,0,Normal
+PP-3781,,M12,12,Normal
+PP-3781,,M24,24,Normal
+PP-3781,,M48,48,
+PP-3783,,M0,0,Normal
+PP-3783,,M12,12,
+PP-3783,,M24,24,
+PP-3784,,M0,0,Normal
+PP-3784,,M12,12,
+PP-3784,,M24,24,
+PP-3785,,M0,0,
+PP-3785,,M24,24,
+PP-3785,,M48,48,
+PP-3787,,M0,0,Normal
+PP-3787,,M12,12,Normal
+PP-3787,,M24,24,
+PP-3787,,M48,48,
+PP-3788,,M0,0,Normal
+PP-3788,,M12,12,"Abnormal, not clinically significant"
+PP-3789,,M0,0,Normal
+PP-3789,,M12,12,Normal
+PP-3789,,M24,24,
+PP-3789,,M48,48,
+PP-3790,,M0,0,Normal
+PP-3790,,M12,12,
+PP-3790,,M24,24,
+PP-3791,,M0,0,
+PP-3791,,M12,12,
+PP-3791,,M24,24,
+PP-3791,,M48,48,
+PP-3792,,M0,0,
+PP-3792,,M24,24,
+PP-3793,,M0,0,
+PP-3793,,M12,12,
+PP-3793,,M24,24,
+PP-3793,,M48,48,
+PP-3794,,M0,0,
+PP-3794,,M12,12,
+PP-3795,,M0,0,
+PP-3795,,M12,12,
+PP-3795,,M24,24,
+PP-3795,,M48,48,
+PP-3796,,M0,0,
+PP-3800,,M0,0,"Abnormal, not clinically significant"
+PP-3800,,M12,12,Normal
+PP-3800,,M24,24,Normal
+PP-3800,,M48,48,
+PP-3802,,M0,0,"Abnormal, not clinically significant"
+PP-3802,,M12,12,"Abnormal, not clinically significant"
+PP-3802,,M24,24,"Abnormal, not clinically significant"
+PP-3802,,M48,48,
+PP-3803,,M0,0,"Abnormal, not clinically significant"
+PP-3803,,M12,12,"Abnormal, not clinically significant"
+PP-3804,,M0,0,"Abnormal, not clinically significant"
+PP-3804,,M12,12,
+PP-3805,,M0,0,Normal
+PP-3805,,M12,12,Normal
+PP-3806,,M0,0,"Abnormal, not clinically significant"
+PP-3806,,M12,12,"Abnormal, not clinically significant"
+PP-3807,,M0,0,"Abnormal, not clinically significant"
+PP-3807,,M12,12,Normal
+PP-3808,,M0,0,"Abnormal, not clinically significant"
+PP-3808,,M12,12,"Abnormal, not clinically significant"
+PP-3808,,M24,24,Normal
+PP-3808,,M48,48,
+PP-3809,,M0,0,"Abnormal, not clinically significant"
+PP-3810,,M0,0,"Abnormal, not clinically significant"
+PP-3811,,M0,0,"Abnormal, not clinically significant"
+PP-3811,,M12,12,"Abnormal, not clinically significant"
+PP-3812,,M0,0,"Abnormal, not clinically significant"
+PP-3812,,M12,12,Normal
+PP-3813,,M0,0,"Abnormal, not clinically significant"
+PP-3813,,M12,12,"Abnormal, not clinically significant"
+PP-3814,,M0,0,"Abnormal, not clinically significant"
+PP-3814,,M12,12,Normal
+PP-3814,,M24,24,Normal
+PP-3814,,M48,48,
+PP-3815,,M0,0,"Abnormal, not clinically significant"
+PP-3815,,M12,12,"Abnormal, not clinically significant"
+PP-3815,,M24,24,"Abnormal, not clinically significant"
+PP-3815,,M48,48,
+PP-3816,,M0,0,"Abnormal, not clinically significant"
+PP-3816,,M12,12,"Abnormal, not clinically significant"
+PP-3817,,M0,0,"Abnormal, not clinically significant"
+PP-3817,,M12,12,"Abnormal, not clinically significant"
+PP-3818,,M0,0,"Abnormal, not clinically significant"
+PP-3818,,M12,12,"Abnormal, not clinically significant"
+PP-3818,,M24,24,"Abnormal, not clinically significant"
+PP-3818,,M48,48,
+PP-3819,,M0,0,"Abnormal, not clinically significant"
+PP-3819,,M12,12,"Abnormal, not clinically significant"
+PP-3819,,M24,24,"Abnormal, not clinically significant"
+PP-3819,,M48,48,
+PP-3820,,M0,0,Normal
+PP-3820,,M12,12,Normal
+PP-3820,,M24,24,Normal
+PP-3821,,M0,0,Normal
+PP-3821,,M12,12,
+PP-3821,,M18,18,"Abnormal, not clinically significant"
+PP-3821,,M24,24,Normal
+PP-3822,,M0,0,Normal
+PP-3822,,M12,12,Normal
+PP-3822,,M24,24,Normal
+PP-3822,,M48,48,
+PP-3823,,M0,0,Normal
+PP-3823,,M12,12,Normal
+PP-3823,,M24,24,Normal
+PP-3823,,M48,48,
+PP-3824,,M0,0,Normal
+PP-3824,,M12,12,Normal
+PP-3824,,M24,24,Normal
+PP-3824,,M48,48,
+PP-3825,,M0,0,"Abnormal, not clinically significant"
+PP-3825,,M12,12,"Abnormal, not clinically significant"
+PP-3825,,M24,24,"Abnormal, not clinically significant"
+PP-3825,,M48,48,
+PP-3826,,M0,0,Normal
+PP-3826,,M12,12,Normal
+PP-3826,,M24,24,Normal
+PP-3826,,M48,48,
+PP-3827,,M0,0,Normal
+PP-3828,,M0,0,Normal
+PP-3828,,M12,12,Normal
+PP-3828,,M24,24,Normal
+PP-3828,,M48,48,
+PP-3829,,M0,0,Normal
+PP-3829,,M12,12,Normal
+PP-3829,,M24,24,Normal
+PP-3829,,M48,48,
+PP-3830,,M0,0,Normal
+PP-3830,,M12,12,Normal
+PP-3830,,M24,24,
+PP-3830,,M48,48,
+PP-3831,,M0,0,Normal
+PP-3831,,M12,12,Normal
+PP-3831,,M24,24,
+PP-3831,,M48,48,
+PP-3832,,M0,0,Normal
+PP-3832,,M12,12,"Abnormal, not clinically significant"
+PP-3832,,M24,24,
+PP-3832,,M48,48,
+PP-3834,,M0,0,"Abnormal, not clinically significant"
+PP-3834,,M12,12,"Abnormal, not clinically significant"
+PP-3834,,M24,24,
+PP-3834,,M48,48,
+PP-3835,,M0,0,Normal
+PP-3835,,M12,12,Normal
+PP-3835,,M24,24,
+PP-3835,,M48,48,
+PP-3836,,M0,0,Normal
+PP-3836,,M12,12,Normal
+PP-3836,,M24,24,
+PP-3838,,M0,0,Normal
+PP-3838,,M12,12,Normal
+PP-3838,,M24,24,
+PP-3838,,M48,48,
+PP-3850,,M0,0,Normal
+PP-3850,,M12,12,Normal
+PP-3850,,M24,24,Normal
+PP-3850,,M48,48,
+PP-3851,,M0,0,Normal
+PP-3851,,M12,12,Normal
+PP-3851,,M24,24,Normal
+PP-3851,,M48,48,
+PP-3852,,M0,0,Normal
+PP-3852,,M12,12,Normal
+PP-3852,,M24,24,
+PP-3852,,M36,36,
+PP-3852,,M48,48,
+PP-3853,,M0,0,Normal
+PP-3853,,M12,12,
+PP-3853,,M24,24,Normal
+PP-3853,,M36,36,
+PP-3853,,M48,48,
+PP-3854,,M0,0,Normal
+PP-3854,,M12,12,Normal
+PP-3854,,M24,24,Normal
+PP-3854,,M48,48,
+PP-3855,,M0,0,Normal
+PP-3855,,M12,12,Normal
+PP-3855,,M24,24,Normal
+PP-3855,,M48,48,
+PP-3856,,M0,0,Normal
+PP-3856,,M12,12,
+PP-3856,,M24,24,
+PP-3856,,M48,48,
+PP-3857,,M0,0,Normal
+PP-3857,,M12,12,Normal
+PP-3857,,M24,24,Normal
+PP-3858,,M0,0,Normal
+PP-3859,,M0,0,Normal
+PP-3859,,M12,12,Normal
+PP-3859,,M24,24,Normal
+PP-3860,,M0,0,Normal
+PP-3860,,M12,12,
+PP-3860,,M24,24,Normal
+PP-3861,,M0,0,Normal
+PP-3861,,M12,12,Normal
+PP-3861,,M24,24,Normal
+PP-3862,,M0,0,Normal
+PP-3862,,M12,12,Normal
+PP-3862,,M24,24,Normal
+PP-3863,,M0,0,Normal
+PP-3863,,M12,12,Normal
+PP-3865,,M0,0,Normal
+PP-3865,,M12,12,Normal
+PP-3865,,M24,24,Normal
+PP-3866,,M0,0,Normal
+PP-3866,,M12,12,Normal
+PP-3866,,M24,24,"Abnormal, not clinically significant"
+PP-3866,,M42,42,
+PP-3867,,M0,0,
+PP-3867,,M12,12,Normal
+PP-3868,,M0,0,Normal
+PP-3868,,M12,12,Normal
+PP-3869,,M0,0,Normal
+PP-3869,,M12,12,Normal
+PP-3869,,M24,24,
+PP-3869,,M48,48,
+PP-3870,,M0,0,Normal
+PP-3870,,M12,12,Normal
+PP-3870,,M24,24,
+PP-3870,,M48,48,
+PP-3871,,M0,0,Normal
+PP-3871,,M12,12,Normal
+PP-3871,,M24,24,
+PP-3900,,M0,0,Normal
+PP-3901,,M0,0,Normal
+PP-3902,,M0,0,"Abnormal, not clinically significant"
+PP-3903,,M0,0,Normal
+PP-3904,,M0,0,"Abnormal, not clinically significant"
+PP-3905,,M0,0,Normal
+PP-3907,,M0,0,Normal
+PP-3908,,M0,0,Normal
+PP-3910,,M0,0,
+PP-3911,,M0,0,Normal
+PP-3914,,M0,0,Normal
+PP-3915,,M0,0,Normal
+PP-3916,,M0,0,"Abnormal, not clinically significant"
+PP-3917,,M0,0,Normal
+PP-3950,NIHZY641CGJMA,M0,0,Normal
+PP-3951,NIHXB907XFKCP,M0,0,Normal
+PP-3952,NIHEN559WCDRM,M0,0,"Abnormal, not clinically significant"
+PP-3953,,M0,0,Normal
+PP-3954,NIHWK499EHUPK,M0,0,Normal
+PP-3955,NIHRB552MVHUC,M0,0,Normal
+PP-3956,,M0,0,"Abnormal, not clinically significant"
+PP-3957,,M0,0,Normal
+PP-3958,,M0,0,"Abnormal, not clinically significant"
+PP-3959,NIHEK897PRKAQ,M0,0,Normal
+PP-3960,,M0,0,Normal
+PP-3961,NIHXF004XULZX,M0,0,Normal
+PP-3962,,M0,0,Normal
+PP-3963,,M0,0,Normal
+PP-3964,,M0,0,Normal
+PP-3965,,M0,0,Normal
+PP-3966,NIHPU965XYED0,M0,0,Normal
+PP-3967,,M0,0,Normal
+PP-3968,NIHTZ609PVYUU,M0,0,Normal
+PP-3969,NIHYZ495UKZA0,M0,0,"Abnormal, not clinically significant"
+PP-3970,NIHZX236VKZBG,M0,0,"Abnormal, not clinically significant"
+PP-3972,,M0,0,"Abnormal, not clinically significant"
+PP-40012,,M0,0,Normal
+PP-4001,NIHJM341TPFB9,M0,0,"Abnormal, not clinically significant"
+PP-4001,NIHJM341TPFB9,M12,12,"Abnormal, not clinically significant"
+PP-4001,NIHJM341TPFB9,M24,24,Normal
+PP-4001,NIHJM341TPFB9,M48,48,
+PP-4004,NIHGF059LRCAR,M0,0,Normal
+PP-4004,NIHGF059LRCAR,M12,12,Normal
+PP-4005,NIHER332HNEU1,M0,0,"Abnormal, not clinically significant"
+PP-4005,NIHER332HNEU1,M12,12,"Abnormal, not clinically significant"
+PP-4005,NIHER332HNEU1,M24,24,"Abnormal, not clinically significant"
+PP-4005,NIHER332HNEU1,M48,48,
+PP-4006,,M0,0,
+PP-4006,,M3,3,"Abnormal, not clinically significant"
+PP-4009,,M0,0,
+PP-4010,,M0,0,Normal
+PP-4010,,M12,12,Normal
+PP-4011,NIHEY963VLZF8,M0,0,"Abnormal, not clinically significant"
+PP-4011,NIHEY963VLZF8,M12,12,Normal
+PP-4011,NIHEY963VLZF8,M24,24,Normal
+PP-4011,NIHEY963VLZF8,M48,48,
+PP-4012,NIHYX375KNZM0,M0,0,Normal
+PP-4012,NIHYX375KNZM0,M12,12,Normal
+PP-4012,NIHYX375KNZM0,M24,24,Normal
+PP-4012,NIHYX375KNZM0,M48,48,
+PP-4013,,M0,0,"Abnormal, not clinically significant"
+PP-4013,,M12,12,"Abnormal, clinically significant"
+PP-4013,,M24,24,"Abnormal, not clinically significant"
+PP-4016,,M0,0,
+PP-4018,,M0,0,"Abnormal, not clinically significant"
+PP-4018,,M12,12,"Abnormal, not clinically significant"
+PP-4019,NIHYT051NPRJN,M0,0,"Abnormal, not clinically significant"
+PP-4019,NIHYT051NPRJN,M12,12,Normal
+PP-4019,NIHYT051NPRJN,M24,24,"Abnormal, not clinically significant"
+PP-4019,NIHYT051NPRJN,M48,48,
+PP-4020,,M0,0,"Abnormal, not clinically significant"
+PP-4020,,M12,12,Normal
+PP-4020,,M24,24,"Abnormal, not clinically significant"
+PP-4020,,M48,48,
+PP-4021,,M0,0,"Abnormal, not clinically significant"
+PP-4021,,M12,12,Normal
+PP-4021,,M24,24,Normal
+PP-4021,,M48,48,
+PP-4022,,M0,0,"Abnormal, not clinically significant"
+PP-4022,,M12,12,Normal
+PP-4022,,M24,24,Normal
+PP-4022,,M48,48,
+PP-4023,,M0,0,Normal
+PP-4023,,M24,24,Normal
+PP-4024,,M0,0,"Abnormal, not clinically significant"
+PP-4024,,M12,12,Normal
+PP-4024,,M24,24,Normal
+PP-4024,,M48,48,
+PP-4025,NIHTN138WJJPV,M0,0,Normal
+PP-4025,NIHTN138WJJPV,M12,12,Normal
+PP-4025,NIHTN138WJJPV,M24,24,Normal
+PP-4025,NIHTN138WJJPV,M48,48,
+PP-4026,,M0,0,"Abnormal, not clinically significant"
+PP-4026,,M12,12,"Abnormal, not clinically significant"
+PP-4026,,M24,24,Normal
+PP-4026,,M48,48,
+PP-40273,,M0,0,Normal
+PP-4027,NIHNL396WKUYR,M0,0,Normal
+PP-4027,NIHNL396WKUYR,M12,12,Normal
+PP-4027,NIHNL396WKUYR,M24,24,
+PP-4027,NIHNL396WKUYR,M48,48,
+PP-4029,NIHCC624XRUTX,M0,0,Normal
+PP-4029,NIHCC624XRUTX,M12,12,Normal
+PP-4029,NIHCC624XRUTX,M24,24,
+PP-4029,NIHCC624XRUTX,M48,48,
+PP-4030,,M0,0,Normal
+PP-4030,,M12,12,Normal
+PP-4030,,M24,24,
+PP-4030,,M48,48,
+PP-4031,,M0,0,Normal
+PP-4031,,M24,24,
+PP-4032,NIHAL950PEXDU,M0,0,Normal
+PP-4032,NIHAL950PEXDU,M12,12,Normal
+PP-40338,NIHFF446WCTZF,M0,0,"Abnormal, not clinically significant"
+PP-40338,NIHFF446WCTZF,M24,24,
+PP-40338,NIHFF446WCTZF,M48,48,
+PP-4033,,M0,0,Normal
+PP-4033,,M12,12,
+PP-4033,,M24,24,
+PP-4033,,M48,48,
+PP-4034,NIHHF885KGMYY,M0,0,Normal
+PP-4034,NIHHF885KGMYY,M12,12,Normal
+PP-4034,NIHHF885KGMYY,M24,24,
+PP-4034,NIHHF885KGMYY,M48,48,
+PP-4035,NIHBM152RMJGM,M0,0,Normal
+PP-4035,NIHBM152RMJGM,M12,12,"Abnormal, not clinically significant"
+PP-4035,NIHBM152RMJGM,M24,24,
+PP-4035,NIHBM152RMJGM,M48,48,
+PP-40360,NIHAM882LJMRC,M0,0,"Abnormal, not clinically significant"
+PP-40360,NIHAM882LJMRC,M24,24,
+PP-40360,NIHAM882LJMRC,M48,48,
+PP-40366,NIHYT232DYKRP,M0,0,Normal
+PP-40366,NIHYT232DYKRP,M24,24,
+PP-40366,NIHYT232DYKRP,M48,48,
+PP-4036,,M0,0,Normal
+PP-4037,,M0,0,Normal
+PP-4037,,M12,12,Normal
+PP-4037,,M24,24,
+PP-4037,,M48,48,
+PP-4038,,M0,0,"Abnormal, not clinically significant"
+PP-4038,,M12,12,Normal
+PP-4038,,M24,24,
+PP-4038,,M48,48,
+PP-40451,NIHPX414GKHR3,M0,0,Normal
+PP-40451,NIHPX414GKHR3,M24,24,
+PP-40451,NIHPX414GKHR3,M48,48,
+PP-4051,NIHAU337TDDFC,M0,0,"Abnormal, not clinically significant"
+PP-40520,,M0,0,
+PP-4052,NIHCW843YTVB0,M0,0,"Abnormal, not clinically significant"
+PP-40533,,M24,24,
+PP-40534,,M0,0,Normal
+PP-40534,,M24,24,
+PP-40538,,M0,0,
+PP-40538,,M24,24,
+PP-40539,,M0,0,
+PP-4053,NIHUZ424NGRTK,M0,0,Normal
+PP-40540,,M0,0,
+PP-40540,,M24,24,
+PP-40541,,M0,0,Normal
+PP-40541,,M24,24,
+PP-40542,,M0,0,
+PP-40542,,M24,24,
+PP-40543,,M0,0,
+PP-40543,,M24,24,
+PP-40544,,M0,0,
+PP-40549,,M0,0,
+PP-4054,NIHAB501ZPZFM,M0,0,Normal
+PP-40553,,M0,0,"Abnormal, not clinically significant"
+PP-40555,,M0,0,"Abnormal, clinically significant"
+PP-40558,,M0,0,Normal
+PP-4055,NIHBA639MLEZX,M0,0,"Abnormal, not clinically significant"
+PP-40560,,M0,0,"Abnormal, not clinically significant"
+PP-40567,,M0,0,"Abnormal, not clinically significant"
+PP-4056,NIHMA568NBKUF,M0,0,Normal
+PP-40578,,M0,0,"Abnormal, not clinically significant"
+PP-4057,NIHEH493PNGAG,M0,0,Normal
+PP-40585,,M0,0,Normal
+PP-40586,,M0,0,Normal
+PP-40587,,M0,0,"Abnormal, not clinically significant"
+PP-4058,,M0,0,"Abnormal, not clinically significant"
+PP-4059,NIHLU263HELKW,M0,0,Normal
+PP-40613,,M0,0,
+PP-40614,,M0,0,
+PP-40616,,M0,0,
+PP-40617,,M0,0,
+PP-40618,,M0,0,
+PP-40619,,M0,0,
+PP-40621,,M0,0,
+PP-4062,,M0,0,Normal
+PP-4064,,M0,0,Normal
+PP-4064,,M12,12,
+PP-4064,,M24,24,
+PP-4065,,M0,0,Normal
+PP-4065,,M12,12,
+PP-4066,,M0,0,Normal
+PP-40671,,M0,0,Normal
+PP-4067,NIHWT264LHBXR,M0,0,Normal
+PP-4067,NIHWT264LHBXR,M12,12,
+PP-4067,NIHWT264LHBXR,M24,24,
+PP-40690,,M0,0,"Abnormal, not clinically significant"
+PP-40691,,M0,0,Normal
+PP-40692,,M0,0,"Abnormal, not clinically significant"
+PP-40693,,M0,0,"Abnormal, not clinically significant"
+PP-40694,,M0,0,"Abnormal, not clinically significant"
+PP-40702,,M0,0,"Abnormal, not clinically significant"
+PP-40703,,M0,0,"Abnormal, not clinically significant"
+PP-40704,,M0,0,"Abnormal, not clinically significant"
+PP-40707,,M0,0,"Abnormal, clinically significant"
+PP-40709,,M0,0,"Abnormal, not clinically significant"
+PP-4070,,M0,0,"Abnormal, not clinically significant"
+PP-40713,,M0,0,"Abnormal, not clinically significant"
+PP-40714,,M0,0,"Abnormal, not clinically significant"
+PP-4071,NIHUB652HNVEM,M0,0,"Abnormal, not clinically significant"
+PP-40725,,M0,0,"Abnormal, not clinically significant"
+PP-40726,,M0,0,"Abnormal, not clinically significant"
+PP-4072,,M0,0,"Abnormal, not clinically significant"
+PP-40730,,M0,0,Normal
+PP-40731,,M0,0,Normal
+PP-40733,,M0,0,Normal
+PP-40735,,M0,0,Normal
+PP-40737,,M0,0,Normal
+PP-4073,,M0,0,"Abnormal, not clinically significant"
+PP-40740,,M0,0,Normal
+PP-40744,,M0,0,Normal
+PP-4074,,M0,0,"Abnormal, not clinically significant"
+PP-40750,,M0,0,
+PP-40759,,M0,0,
+PP-4075,,M0,0,"Abnormal, not clinically significant"
+PP-40760,,M0,0,
+PP-40761,,M0,0,
+PP-40763,,M0,0,
+PP-40767,,M0,0,
+PP-40769,,M0,0,
+PP-4076,NIHHT353CTGEL,M0,0,"Abnormal, not clinically significant"
+PP-40771,,M0,0,
+PP-40772,,M0,0,
+PP-40773,,M0,0,
+PP-40774,,M0,0,
+PP-40775,,M0,0,
+PP-40776,,M0,0,
+PP-40777,,M0,0,
+PP-40778,,M0,0,
+PP-40779,,M0,0,
+PP-4077,NIHTL571KKYLH,M0,0,"Abnormal, not clinically significant"
+PP-40781,,M0,0,Normal
+PP-40781,,M24,24,
+PP-40781,,M48,48,
+PP-40784,,M24,24,
+PP-40784,,M48,48,
+PP-40789,,M24,24,
+PP-4078,,M0,0,"Abnormal, not clinically significant"
+PP-4079,,M0,0,Normal
+PP-40800,,M0,0,
+PP-40800,,M24,24,
+PP-40806,,M0,0,Normal
+PP-40806,,M24,24,
+PP-4080,,M0,0,Normal
+PP-40816,,M0,0,
+PP-40816,,M24,24,
+PP-4081,,M0,0,"Abnormal, not clinically significant"
+PP-4081,,M12,12,"Abnormal, not clinically significant"
+PP-4081,,M24,24,
+PP-4081,,M54,54,
+PP-4082,,M0,0,Normal
+PP-4082,,M12,12,
+PP-4082,,M24,24,
+PP-4082,,M48,48,
+PP-4083,,M0,0,Normal
+PP-4083,,M12,12,Normal
+PP-4083,,M24,24,
+PP-4083,,M48,48,
+PP-4084,,M0,0,Normal
+PP-4084,,M12,12,Normal
+PP-4084,,M24,24,
+PP-4085,,M0,0,"Abnormal, not clinically significant"
+PP-4085,,M24,24,
+PP-4085,,M48,48,
+PP-4085,,M60,60,
+PP-4086,,M0,0,"Abnormal, not clinically significant"
+PP-4086,,M12,12,
+PP-4086,,M24#2,24,
+PP-4086,,M24,24,
+PP-40882,,M0,0,
+PP-40882,,M24,24,
+PP-40893,,M0,0,"Abnormal, not clinically significant"
+PP-40893,,M24,24,
+PP-40893,,M48,48,
+PP-4090,,M0,0,Normal
+PP-40916,,M0,0,Normal
+PP-4091,NIHDP391KYKYU,M0,0,"Abnormal, not clinically significant"
+PP-40922,,M0,0,Normal
+PP-4092,,M0,0,"Abnormal, not clinically significant"
+PP-4093,,M0,0,"Abnormal, not clinically significant"
+PP-4094,,M0,0,"Abnormal, not clinically significant"
+PP-4096,,M0,0,Normal
+PP-4098,NIHDD336WYUEX,M0,0,Normal
+PP-4099,NIHEP550CHYDB,M0,0,Normal
+PP-4100,NIHPR958RFURR,M0,0,"Abnormal, not clinically significant"
+PP-4101,,M0,0,"Abnormal, not clinically significant"
+PP-4102,NIHLA225AXAK3,M0,0,Normal
+PP-4103,NIHLA971WVJAF,M0,0,"Abnormal, not clinically significant"
+PP-4104,NIHEF377YJVG3,M0,0,Normal
+PP-4105,NIHBB145XXMV8,M0,0,"Abnormal, not clinically significant"
+PP-4106,NIHTJ657YARWK,M0,0,"Abnormal, not clinically significant"
+PP-4107,NIHWA695CPALR,M0,0,"Abnormal, not clinically significant"
+PP-4108,,M0,0,"Abnormal, not clinically significant"
+PP-4109,,M0,0,"Abnormal, not clinically significant"
+PP-4110,,M0,0,"Abnormal, not clinically significant"
+PP-4111,NIHKH348LHZBU,M0,0,"Abnormal, not clinically significant"
+PP-4112,,M0,0,Normal
+PP-4113,,M0,0,Normal
+PP-4114,,M0,0,"Abnormal, not clinically significant"
+PP-4115,NIHYH935PYVEP,M0,0,"Abnormal, not clinically significant"
+PP-4116,NIHRM511XBHJ7,M0,0,Normal
+PP-41172,NIHJK758KZTTG,M0,0,
+PP-41172,NIHJK758KZTTG,M24,24,
+PP-41172,NIHJK758KZTTG,M48,48,
+PP-4117,NIHYC137JHHA1,M0,0,Normal
+PP-41184,NIHEM321UFAWR,M0,0,Normal
+PP-41184,NIHEM321UFAWR,M24,24,
+PP-41184,NIHEM321UFAWR,M48,48,
+PP-4118,,M0,0,Normal
+PP-4120,,M0,0,Normal
+PP-4121,,M0,0,"Abnormal, not clinically significant"
+PP-4122,NIHBR316ZPWH2,M0,0,"Abnormal, not clinically significant"
+PP-4123,NIHDG060FYKH9,M0,0,Normal
+PP-4124,,M0,0,"Abnormal, not clinically significant"
+PP-4125,,M0,0,"Abnormal, not clinically significant"
+PP-4126,NIHZY928UWLM8,M0,0,Normal
+PP-4127,,M0,0,Normal
+PP-41280,,M24,24,
+PP-41280,,M48,48,
+PP-41281,,M0,0,
+PP-41281,,M48,48,
+PP-41282,,M0,0,Normal
+PP-41282,,M48,48,
+PP-41283,,M0,0,Normal
+PP-41283,,M24,24,
+PP-41283,,M48,48,
+PP-41284,,M0,0,
+PP-41284,,M24,24,
+PP-41284,,M48,48,
+PP-41285,,M0,0,
+PP-41286,,M0,0,
+PP-41287,,M0,0,
+PP-41287,,M48,48,
+PP-41288,,M0,0,
+PP-41288,,M48,48,
+PP-41289,,M0,0,Normal
+PP-41289,,M48,48,
+PP-41290,,M0,0,
+PP-41291,,M0,0,
+PP-41292,,M0,0,
+PP-41292,,M24,24,
+PP-41292,,M48,48,
+PP-41293,,M0,0,Normal
+PP-41293,,M24,24,
+PP-41293,,M48,48,
+PP-41294,,M0,0,
+PP-41294,,M24,24,
+PP-41295,,M0,0,
+PP-41295,,M24,24,
+PP-41296,,M0,0,
+PP-41296,,M24,24,
+PP-41297,,M0,0,
+PP-41297,,M24,24,
+PP-41297,,M48,48,
+PP-41305,,M0,0,
+PP-41305,,M24,24,
+PP-41305,,M48,48,
+PP-41307,,M0,0,
+PP-41307,,M24,24,
+PP-41307,,M48,48,
+PP-41314,,M0,0,
+PP-41342,,M0,0,
+PP-41342,,M24,24,
+PP-41343,,M0,0,
+PP-41343,,M24,24,
+PP-41356,,M0,0,
+PP-41356,,M24,24,
+PP-4135,,M0,0,
+PP-4135,,M12,12,
+PP-4135,,M24,24,
+PP-4135,,M30,30,
+PP-41364,,M0,0,
+PP-41364,,M24,24,
+PP-4136,,M0,0,Normal
+PP-4136,,M12,12,Normal
+PP-4136,,M24,24,
+PP-41370,,M0,0,
+PP-41375,,M0,0,
+PP-41375,,M24,24,
+PP-41380,,M0,0,"Abnormal, not clinically significant"
+PP-41381,,M0,0,Normal
+PP-41381,,M24,24,
+PP-41382,,M0,0,"Abnormal, clinically significant"
+PP-41384,,M0,0,Normal
+PP-41399,,M0,0,Normal
+PP-4139,,M0,0,Normal
+PP-4139,,M12,12,
+PP-4139,,M24,24,
+PP-41400,,M0,0,"Abnormal, not clinically significant"
+PP-41401,,M0,0,"Abnormal, not clinically significant"
+PP-41405,,M0,0,"Abnormal, not clinically significant"
+PP-41410,,M0,0,Normal
+PP-41411,,M0,0,"Abnormal, not clinically significant"
+PP-41412,,M0,0,"Abnormal, not clinically significant"
+PP-41420,,M0,0,"Abnormal, not clinically significant"
+PP-41430,,M0,0,
+PP-41432,,M0,0,
+PP-41437,,M0,0,
+PP-41438,,M0,0,
+PP-41438,,M42,42,Normal
+PP-41471,NIHDV164RDAAU,M0,0,Normal
+PP-41471,NIHDV164RDAAU,M24,24,
+PP-41471,NIHDV164RDAAU,M48,48,
+PP-41473,NIHBL631GGWK0,M0,0,Normal
+PP-41486,NIHKV761NNDVM,M0,0,"Abnormal, not clinically significant"
+PP-41486,NIHKV761NNDVM,M12,12,
+PP-41486,NIHKV761NNDVM,M24,24,
+PP-41486,NIHKV761NNDVM,M48,48,
+PP-41488,NIHFD430JKVY4,M0,0,Normal
+PP-41488,NIHFD430JKVY4,M12,12,
+PP-41488,NIHFD430JKVY4,M24,24,
+PP-41508,,M0,0,"Abnormal, not clinically significant"
+PP-41513,,M0,0,Normal
+PP-41519,,M0,0,Normal
+PP-41521,,M0,0,"Abnormal, not clinically significant"
+PP-41522,,M0,0,"Abnormal, not clinically significant"
+PP-41523,,M0,0,"Abnormal, clinically significant"
+PP-41526,,M0,0,"Abnormal, not clinically significant"
+PP-41529,,M0,0,
+PP-41560,,M0,0,
+PP-41562,,M0,0,
+PP-41568,,M0,0,"Abnormal, not clinically significant"
+PP-41578,,M0,0,"Abnormal, not clinically significant"
+PP-41664,NIHCX432BXJJR,M0,0,Normal
+PP-41664,NIHCX432BXJJR,M24,24,
+PP-41664,NIHCX432BXJJR,M48,48,
+PP-41749,,M0,0,Normal
+PP-41749,,M24,24,
+PP-41767,,M0,0,Normal
+PP-41767,,M24,24,
+PP-41801,,M0,0,Normal
+PP-41829,,M0,0,Normal
+PP-41829,,M24,24,
+PP-41854,,M0,0,Normal
+PP-41854,,M24,24,
+PP-41886,,M0,0,Normal
+PP-41886,,M24,24,
+PP-41967,,M0,0,Normal
+PP-41984,,M0,0,
+PP-41985,,M0,0,
+PP-41989,,M0,0,
+PP-41990,,M0,0,
+PP-41992,,M0,0,Normal
+PP-41993,,M0,0,Normal
+PP-42000,,M0,0,"Abnormal, not clinically significant"
+PP-42001,,M0,0,"Abnormal, not clinically significant"
+PP-42006,,M0,0,"Abnormal, not clinically significant"
+PP-42009,,M0,0,"Abnormal, not clinically significant"
+PP-42011,,M0,0,Normal
+PP-42012,,M0,0,Normal
+PP-42014,,M0,0,"Abnormal, not clinically significant"
+PP-42024,,M0,0,"Abnormal, not clinically significant"
+PP-42033,,M0,0,Normal
+PP-42034,,M0,0,"Abnormal, not clinically significant"
+PP-42035,,M0,0,
+PP-42072,NIHTZ418ZRXXD,M0,0,"Abnormal, clinically significant"
+PP-42072,NIHTZ418ZRXXD,M24,24,
+PP-42072,NIHTZ418ZRXXD,M48,48,
+PP-42079,NIHTL486AKCBH,M0,0,
+PP-42121,,M0,0,"Abnormal, not clinically significant"
+PP-42123,,M0,0,"Abnormal, not clinically significant"
+PP-42126,,M0,0,Normal
+PP-42128,,M0,0,Normal
+PP-42133,,M0,0,"Abnormal, not clinically significant"
+PP-42134,,M0,0,"Abnormal, clinically significant"
+PP-42146,,M0,0,"Abnormal, not clinically significant"
+PP-42158,,M0,0,Normal
+PP-42161,,M0,0,Normal
+PP-42164,,M0,0,Normal
+PP-42168,,M0,0,Normal
+PP-42171,,M0,0,Normal
+PP-42172,,M0,0,Normal
+PP-42240,,M0,0,"Abnormal, not clinically significant"
+PP-42240,,M24,24,
+PP-42263,,M0,0,"Abnormal, clinically significant"
+PP-42264,,M0,0,"Abnormal, clinically significant"
+PP-42269,,M0,0,Normal
+PP-42272,,M0,0,Normal
+PP-42293,,M0,0,
+PP-42306,,M0,0,
+PP-42306,,M24,24,
+PP-42308,,M0,0,
+PP-42308,,M24,24,
+PP-42346,,M0,0,
+PP-42346,,M24,24,
+PP-42351,,M0,0,
+PP-42351,,M24,24,
+PP-42357,,M0,0,
+PP-42378,,M0,0,
+PP-42379,,M0,0,
+PP-42379,,M30,30,Normal
+PP-42381,,M0,0,
+PP-42396,,M0,0,
+PP-42407,,M0,0,
+PP-42411,,M0,0,
+PP-42412,,M0,0,
+PP-42413,,M0,0,
+PP-42415,,M0,0,
+PP-42415,,M24,24,
+PP-42418,,M0,0,
+PP-42418,,M24,24,
+PP-42422,,M0,0,
+PP-42422,,M24,24,
+PP-42426,,M0,0,
+PP-42426,,M24,24,
+PP-42429,,M0,0,
+PP-42429,,M24,24,
+PP-42438,,M0,0,
+PP-42438,,M24,24,
+PP-42443,,M0,0,
+PP-42443,,M24,24,
+PP-42444,,M0,0,
+PP-42444,,M24,24,
+PP-42445,,M0,0,
+PP-42445,,M24,24,
+PP-42446,,M0,0,
+PP-42446,,M24,24,
+PP-42447,,M0,0,
+PP-42447,,M24,24,
+PP-42448,,M0,0,
+PP-42448,,M24,24,
+PP-42450,,M0,0,
+PP-42450,,M24,24,
+PP-42451,,M0,0,
+PP-42452,,M0,0,
+PP-42453,,M0,0,
+PP-42454,,M0,0,
+PP-42454,,M24,24,
+PP-42455,,M0,0,
+PP-42455,,M24,24,
+PP-42456,,M0,0,
+PP-42457,,M0,0,
+PP-42457,,M24,24,
+PP-42860,,M0,0,Normal
+PP-42888,,M0,0,Normal
+PP-42904,,M0,0,
+PP-43045,,M0,0,
+PP-43046,,M0,0,
+PP-43047,,M0,0,
+PP-43080,,M0,0,
+PP-43081,,M0,0,
+PP-43082,,M0,0,
+PP-43083,,M0,0,
+PP-43086,,M0,0,
+PP-50009,NIHJN932EBJDN,M0,0,
+PP-50027,NIHPV852KBXAD,M0,0,Normal
+PP-50028,NIHHG301HKDRW,M0,0,Normal
+PP-50028,NIHHG301HKDRW,M12,12,
+PP-50028,NIHHG301HKDRW,M24,24,
+PP-50028,NIHHG301HKDRW,M48,48,
+PP-50044,NIHKR603RNTBA,M0,0,
+PP-50081,NIHZF244AFGB2,M0,0,"Abnormal, not clinically significant"
+PP-50086,,M0,0,"Abnormal, not clinically significant"
+PP-50110,NIHEE482JVHTR,M0,0,Normal
+PP-50110,NIHEE482JVHTR,M24,24,
+PP-50110,NIHEE482JVHTR,M48,48,
+PP-50143,NIHEH337NUVJA,M0,0,Normal
+PP-50143,NIHEH337NUVJA,M24,24,
+PP-50157,NIHLK238ARHWQ,M0,0,
+PP-50157,NIHLK238ARHWQ,M24,24,
+PP-50157,NIHLK238ARHWQ,M48,48,
+PP-50172,NIHYK068RMBV6,M0,0,"Abnormal, not clinically significant"
+PP-50172,NIHYK068RMBV6,M24,24,
+PP-50172,NIHYK068RMBV6,M48,48,
+PP-50175,,M0,0,
+PP-50175,,M24,24,
+PP-50175,,M48,48,
+PP-50184,NIHRH284TVYMJ,M0,0,Normal
+PP-50192,NIHCN299YNUVR,M0,0,"Abnormal, not clinically significant"
+PP-50195,,M0,0,Normal
+PP-50219,NIHPJ518UJBDE,M0,0,"Abnormal, not clinically significant"
+PP-50222,NIHZY480VVPH1,M0,0,Normal
+PP-50222,NIHZY480VVPH1,M24,24,
+PP-50225,NIHFE209GZXTP,M0,0,Normal
+PP-50225,NIHFE209GZXTP,M24,24,
+PP-50275,NIHLJ664NPDW0,M0,0,Normal
+PP-50319,NIHJB146DEXF1,M0,0,"Abnormal, not clinically significant"
+PP-50319,NIHJB146DEXF1,M12,12,
+PP-50319,NIHJB146DEXF1,M24,24,
+PP-50319,NIHJB146DEXF1,M48,48,
+PP-50328,NIHWE716YGNFC,M0,0,Normal
+PP-50328,NIHWE716YGNFC,M24,24,
+PP-50379,NIHZF121MRXKY,M0,0,"Abnormal, not clinically significant"
+PP-50451,,M0,0,Normal
+PP-50455,NIHBV581YRWNG,M0,0,Normal
+PP-50462,NIHPP212JUZMX,M0,0,"Abnormal, not clinically significant"
+PP-50485,NIHNR857JYBH9,M0,0,
+PP-50509,NIHTB309PEYJT,M24,24,
+PP-50557,,M0,0,Normal
+PP-50572,NIHXX028WAHNP,M0,0,Normal
+PP-50572,NIHXX028WAHNP,M12,12,
+PP-50572,NIHXX028WAHNP,M24,24,
+PP-50572,NIHXX028WAHNP,M48,48,
+PP-50621,NIHEK396APUGW,M0,0,"Abnormal, not clinically significant"
+PP-50670,NIHDP119RMEGG,M0,0,
+PP-50746,,M24,24,
+PP-50746,,M48,48,
+PP-50829,,M0,0,Normal
+PP-50860,NIHEV989LDZYB,M0,0,"Abnormal, not clinically significant"
+PP-50901,NIHTW564HDPLU,M0,0,Normal
+PP-50901,NIHTW564HDPLU,M24,24,
+PP-50901,NIHTW564HDPLU,M48,48,
+PP-50961,NIHHZ244RYHW0,M0,0,"Abnormal, not clinically significant"
+PP-50961,NIHHZ244RYHW0,M12,12,
+PP-50961,NIHHZ244RYHW0,M24,24,
+PP-50961,NIHHZ244RYHW0,M48,48,
+PP-50983,,M0,0,Normal
+PP-50983,,M24,24,
+PP-51186,NIHRH001BGEH8,M0,0,Normal
+PP-51247,NIHNN285FKNRQ,M0,0,Normal
+PP-51252,NIHKT339RLVRA,M0,0,Normal
+PP-51302,NIHZT029TTPNQ,M0,0,Normal
+PP-51302,NIHZT029TTPNQ,M24,24,
+PP-51302,NIHZT029TTPNQ,M48,48,
+PP-51311,,M0,0,"Abnormal, not clinically significant"
+PP-51330,NIHPA480EFPUN,M0,0,"Abnormal, not clinically significant"
+PP-51330,NIHPA480EFPUN,M12,12,
+PP-51330,NIHPA480EFPUN,M24,24,
+PP-51330,NIHPA480EFPUN,M48,48,
+PP-51392,NIHYE601GLRTC,M0,0,"Abnormal, not clinically significant"
+PP-51392,NIHYE601GLRTC,M24,24,
+PP-51392,NIHYE601GLRTC,M48,48,
+PP-51440,,M0,0,"Abnormal, not clinically significant"
+PP-51441,,M0,0,
+PP-51518,NIHKR277JLTB5,M0,0,Normal
+PP-51540,NIHYG101ZXKZY,M0,0,"Abnormal, not clinically significant"
+PP-51544,NIHPV919NWXYB,M0,0,Normal
+PP-51551,NIHGG781VXGYL,M0,0,
+PP-51557,NIHGT865KLBT5,M0,0,
+PP-51625,NIHFV504MJWDT,M0,0,"Abnormal, not clinically significant"
+PP-51632,NIHCC526UKDB2,M0,0,"Abnormal, not clinically significant"
+PP-51632,NIHCC526UKDB2,M24,24,
+PP-51632,NIHCC526UKDB2,M48,48,
+PP-51675,,M0,0,Normal
+PP-51680,NIHWW556KZNMY,M0,0,Normal
+PP-51689,NIHFG178ALRR5,M0,0,"Abnormal, not clinically significant"
+PP-51689,NIHFG178ALRR5,M24,24,
+PP-51689,NIHFG178ALRR5,M48,48,
+PP-51714,,M0,0,Normal
+PP-51731,NIHLT248EAYV3,M0,0,Normal
+PP-51731,NIHLT248EAYV3,M24,24,
+PP-51731,NIHLT248EAYV3,M48,48,
+PP-51746,NIHDD063AYRZ3,M0,0,Normal
+PP-51755,NIHWD926FJVEU,M0,0,
+PP-51782,NIHAU550JHJYR,M0,0,"Abnormal, not clinically significant"
+PP-51800,,M0,0,
+PP-51844,,M0,0,"Abnormal, not clinically significant"
+PP-51867,NIHZE849VEMWX,M0,0,Normal
+PP-51914,,M0,0,
+PP-51971,NIHAB029GUMTG,M0,0,"Abnormal, not clinically significant"
+PP-52006,NIHCY883XGLTW,M0,0,
+PP-52006,NIHCY883XGLTW,M24,24,
+PP-52006,NIHCY883XGLTW,M48,48,
+PP-52062,,M0,0,Normal
+PP-52128,NIHRH045PNLWF,M0,0,Normal
+PP-52128,NIHRH045PNLWF,M48,48,
+PP-52146,NIHZT197BEZLA,M0,0,Normal
+PP-52200,NIHZH607TLAPC,M0,0,Normal
+PP-52215,,M0,0,
+PP-52258,NIHMD464NLPMV,M0,0,Normal
+PP-52274,NIHYF577LKFTA,M0,0,Normal
+PP-52274,NIHYF577LKFTA,M24,24,
+PP-52275,NIHHW850RFXPW,M0,0,Normal
+PP-52275,NIHHW850RFXPW,M24,24,
+PP-52275,NIHHW850RFXPW,M48,48,
+PP-52276,,M0,0,Normal
+PP-52278,NIHJX740ATLVX,M0,0,Normal
+PP-52353,NIHWD314DWHVW,M0,0,"Abnormal, not clinically significant"
+PP-52353,NIHWD314DWHVW,M24,24,
+PP-52353,NIHWD314DWHVW,M48,48,
+PP-52355,NIHHG469HBLL3,M0,0,Normal
+PP-52355,NIHHG469HBLL3,M48,48,
+PP-52362,,M0,0,Normal
+PP-52400,NIHKF836WKHAL,M0,0,"Abnormal, not clinically significant"
+PP-52414,NIHHU515JKTLF,M0,0,Normal
+PP-52432,NIHGC141ECPU7,M0,0,Normal
+PP-52432,NIHGC141ECPU7,M24,24,
+PP-52515,,M0,0,Normal
+PP-52517,NIHTP768ZXBP7,M0,0,Normal
+PP-52518,NIHDY146YLKR7,M0,0,Normal
+PP-52523,NIHEK219BVYGY,M0,0,Normal
+PP-52524,NIHDP329CGRM4,M0,0,Normal
+PP-52530,NIHHD441EENWV,M0,0,
+PP-52543,NIHNR126BVKU7,M0,0,
+PP-52543,NIHNR126BVKU7,M24,24,
+PP-52563,NIHBF787CXHHN,M0,0,Normal
+PP-52587,NIHBK012FZCKC,M0,0,Normal
+PP-52604,NIHUN951DYDJB,M0,0,Normal
+PP-52634,NIHAD575RNPP2,M0,0,
+PP-52678,NIHLT572KFBJW,M0,0,Normal
+PP-52678,NIHLT572KFBJW,M24,24,
+PP-52678,NIHLT572KFBJW,M48,48,
+PP-52748,NIHAP099VKLL7,M0,0,
+PP-52752,NIHRM783CFUP9,M0,0,
+PP-52783,NIHEC959KFJR5,M0,0,
+PP-52787,NIHLM594EPEBX,M0,0,
+PP-52828,NIHCW392LFMH4,M0,0,Normal
+PP-52854,NIHBN207XPMVM,M0,0,Normal
+PP-52871,NIHPV723GCCBG,M0,0,Normal
+PP-52872,NIHDG831WGBHJ,M0,0,"Abnormal, not clinically significant"
+PP-52874,NIHUR940KCEHJ,M0,0,"Abnormal, not clinically significant"
+PP-52888,NIHRD271GELE9,M0,0,Normal
+PP-52927,NIHFX100HKDDL,M0,0,Normal
+PP-52932,NIHYH144HUCL1,M0,0,
+PP-52948,NIHWP143HGXUZ,M0,0,
+PP-52982,NIHYL706YLWBR,M0,0,
+PP-53033,,M0,0,Normal
+PP-53044,NIHUP014KLZWX,M0,0,Normal
+PP-53054,NIHEN468VJCCF,M0,0,
+PP-53060,NIHPF649LDAMM,M0,0,Normal
+PP-53113,NIHPV011KCEL2,M0,0,Normal
+PP-53258,NIHFE969JUWKK,M0,0,"Abnormal, not clinically significant"
+PP-53308,NIHXL880PDLHE,M0,0,
+PP-53310,NIHJB753ETXGZ,M0,0,
+PP-53339,NIHUA619LZATQ,M0,0,
+PP-53339,NIHUA619LZATQ,M48,48,Normal
+PP-53340,NIHMX765TCVEG,M0,0,
+PP-53340,NIHMX765TCVEG,M48,48,Normal
+PP-53423,NIHMC030GWYT7,M0,0,"Abnormal, not clinically significant"
+PP-53518,NIHHL894WPVJY,M0,0,
+PP-53519,,M0,0,"Abnormal, not clinically significant"
+PP-53595,NIHWU988LCMWV,M0,0,Normal
+PP-53600,NIHHG886NMYDR,M0,0,Normal
+PP-53677,NIHML438BKZUU,M0,0,"Abnormal, not clinically significant"
+PP-53866,NIHCJ640ARFF4,M0,0,
+PP-53925,NIHCD915YLNBG,M0,0,"Abnormal, not clinically significant"
+PP-53988,NIHJG398DXNJP,M0,0,
+PP-54048,NIHFD246VUZB8,M0,0,Normal
+PP-54110,,M0,0,Normal
+PP-54144,NIHPE012JMWXC,M0,0,
+PP-54156,NIHKX331MACU9,M0,0,"Abnormal, not clinically significant"
+PP-54161,NIHAG508YVTYK,M0,0,Normal
+PP-54166,NIHJP022BAEAL,M0,0,Normal
+PP-54196,,M0,0,Normal
+PP-54197,NIHYN628LKYXL,M0,0,
+PP-54198,,M0,0,
+PP-54215,,M0,0,"Abnormal, not clinically significant"
+PP-54262,NIHUU349CWZDD,M0,0,"Abnormal, not clinically significant"
+PP-54265,NIHVX279HTGTL,M0,0,
+PP-54266,NIHWT822DXWUH,M0,0,Normal
+PP-54309,NIHXY507DGUMJ,M0,0,"Abnormal, not clinically significant"
+PP-54364,,M0,0,Normal
+PP-54373,,M0,0,Normal
+PP-54391,,M0,0,Normal
+PP-54446,NIHXE123UZXHK,M0,0,"Abnormal, not clinically significant"
+PP-54461,NIHYK499LWUMC,M0,0,Normal
+PP-54695,NIHGN503GGMMZ,M0,0,"Abnormal, not clinically significant"
+PP-54908,,SC,-1,
+PP-54915,,M0,0,"Abnormal, not clinically significant"
+PP-54937,,M0,0,"Abnormal, not clinically significant"
+PP-54937,,M24,24,
+PP-54991,NIHWW009XADRE,M0,0,Normal
+PP-55031,NIHRM080YPCK7,M0,0,Normal
+PP-55094,NIHYB560BUKCF,M0,0,"Abnormal, not clinically significant"
+PP-55098,NIHVW026ACWKF,M0,0,Normal
+PP-55124,NIHUL034WNCN8,M0,0,"Abnormal, not clinically significant"
+PP-55151,NIHYM967RTCUQ,M0,0,Normal
+PP-55251,NIHRN710PGXKV,M0,0,"Abnormal, not clinically significant"
+PP-55282,,M0,0,Normal
+PP-55282,,M24,24,
+PP-55349,NIHLK563UACT6,M0,0,"Abnormal, not clinically significant"
+PP-55380,NIHHY735YNHYG,M0,0,
+PP-55395,NIHJW782YHPZN,M0,0,Normal
+PP-55395,NIHJW782YHPZN,M24,24,
+PP-55441,NIHYU933UHKC8,M0,0,Normal
+PP-55468,NIHKH774AZGJF,M0,0,Normal
+PP-55557,,M0,0,
+PP-55560,NIHPV008TDRMF,M0,0,Normal
+PP-55577,NIHTC556MHNKT,M0,0,Normal
+PP-55615,NIHCX432DNWRT,M0,0,"Abnormal, not clinically significant"
+PP-55653,NIHFK072RMZCF,M0,0,Normal
+PP-55822,NIHCC259EGFKE,M0,0,Normal
+PP-55842,,M0,0,Normal
+PP-55875,NIHUB237XHEC2,M0,0,Normal
+PP-55984,NIHBN404KAKVM,M0,0,Normal
+PP-56048,NIHKR359TYVKZ,M0,0,"Abnormal, not clinically significant"
+PP-56126,NIHAB015ZHNUR,M0,0,Normal
+PP-56126,NIHAB015ZHNUR,M24,24,
+PP-56136,NIHKF697JNJRX,M0,0,"Abnormal, not clinically significant"
+PP-56169,NIHGT987RVHZA,M0,0,Normal
+PP-56175,,M0,0,
+PP-56175,,M24,24,
+PP-56184,,SC,-1,
+PP-56405,NIHGH960JLUKY,M0,0,"Abnormal, not clinically significant"
+PP-56435,NIHFW620EUWDT,SC,-1,
+PP-56491,NIHGT318NJKEP,M0,0,Normal
+PP-56492,NIHEU089EBRP0,M0,0,"Abnormal, not clinically significant"
+PP-56558,,M0,0,Normal
+PP-56571,NIHPF828ZFYA7,M0,0,Normal
+PP-56582,NIHXK273MYLD5,M0,0,Normal
+PP-56593,NIHNJ814NREEE,M0,0,"Abnormal, not clinically significant"
+PP-56680,NIHJC808TYXMK,SC,-1,
+PP-56706,NIHPA172FJKT2,M0,0,Normal
+PP-56744,NIHWN589XYCDD,M0,0,"Abnormal, not clinically significant"
+PP-56761,,M0,0,"Abnormal, not clinically significant"
+PP-56779,NIHWU685XTDAE,M0,0,Normal
+PP-56789,NIHDX775XZWPP,M0,0,Normal
+PP-56789,NIHDX775XZWPP,M24,24,
+PP-56800,,M0,0,"Abnormal, not clinically significant"
+PP-56807,,M0,0,Normal
+PP-56886,NIHDA662KGYT3,M0,0,
+PP-56886,NIHDA662KGYT3,M24,24,
+PP-56954,NIHAU793KLFXH,M0,0,"Abnormal, not clinically significant"
+PP-57037,,M0,0,Normal
+PP-57037,,M18,18,
+PP-57090,NIHEP382JAUPT,M0,0,Normal
+PP-57127,NIHGH884NHGTP,M0,0,"Abnormal, not clinically significant"
+PP-57159,NIHLT020LHYJ8,M0,0,Normal
+PP-57170,NIHUP659BVHFM,M0,0,Normal
+PP-57234,NIHMM217CCUE9,M0,0,"Abnormal, not clinically significant"
+PP-57277,NIHHK306KAVBB,M0,0,"Abnormal, not clinically significant"
+PP-57292,NIHVJ713FVJCP,M0,0,"Abnormal, not clinically significant"
+PP-57347,,M0,0,Normal
+PP-57398,NIHAR156EVHUD,M0,0,Normal
+PP-57447,NIHUR944EBMAU,M0,0,"Abnormal, not clinically significant"
+PP-57484,NIHJX020YVBE6,M0,0,Normal
+PP-57484,NIHJX020YVBE6,M24,24,Normal
+PP-57500,NIHWY317VRVJM,M0,0,Normal
+PP-57605,NIHZW854JHXEQ,M0,0,"Abnormal, not clinically significant"
+PP-57670,NIHCK561UFJBN,M0,0,Normal
+PP-57714,NIHNE592GCYGE,M0,0,Normal
+PP-57738,NIHDV804ZDHK1,M0,0,"Abnormal, not clinically significant"
+PP-57798,,M0,0,
+PP-57798,,M24,24,
+PP-57813,,M0,0,Normal
+PP-57869,,M0,0,"Abnormal, not clinically significant"
+PP-57880,NIHNY755LGNB1,M0,0,Normal
+PP-57887,NIHVH343DVXY7,M0,0,"Abnormal, not clinically significant"
+PP-57961,NIHRR508BDRR6,M0,0,Normal
+PP-57965,NIHAY460GVMV4,SC,-1,
+PP-58026,NIHGN319FJMPM,M0,0,Normal
+PP-58027,NIHJG564FGXR5,M0,0,Normal
+PP-58030,NIHAT524TBANM,M0,0,"Abnormal, not clinically significant"
+PP-58070,,M0,0,"Abnormal, not clinically significant"
+PP-58074,NIHVM343GYYWD,M0,0,Normal
+PP-58099,NIHNF472GZVGC,M0,0,Normal
+PP-58111,,M0,0,Normal
+PP-58138,NIHRZ327XFDET,M0,0,"Abnormal, not clinically significant"
+PP-58141,NIHPR902XUHAF,M0,0,"Abnormal, not clinically significant"
+PP-58164,NIHZK985NRCZ3,M0,0,Normal
+PP-58182,NIHUT596KPVZD,M0,0,Normal
+PP-58221,,M0,0,Normal
+PP-58224,NIHYW660FWTGA,M0,0,Normal
+PP-58270,NIHTW594DWRZV,M0,0,"Abnormal, not clinically significant"
+PP-58327,,M0,0,
+PP-58327,,M24,24,
+PP-58342,NIHZA069RVZV4,M0,0,Normal
+PP-58420,,M0,0,Normal
+PP-58431,NIHNY777XPEJM,M0,0,Normal
+PP-58438,,M0,0,Normal
+PP-58454,NIHJC052DTDUP,M0,0,"Abnormal, not clinically significant"
+PP-58510,NIHHF777PXUWX,M0,0,"Abnormal, not clinically significant"
+PP-58527,,M0,0,Normal
+PP-58550,NIHUD327LZMC2,M0,0,"Abnormal, not clinically significant"
+PP-58653,NIHUL489UKRHH,M0,0,Normal
+PP-58671,NIHHY448TKJBH,M0,0,"Abnormal, not clinically significant"
+PP-58680,NIHAY658TVCPT,M0,0,"Abnormal, not clinically significant"
+PP-58694,NIHZP437TYEEQ,M0,0,Normal
+PP-58716,NIHBF621WLWB2,M0,0,Normal
+PP-58721,NIHJN160XERGR,M0,0,Normal
+PP-58767,NIHVM576TAFLU,M0,0,Normal
+PP-58783,NIHDU256BYNV7,M0,0,"Abnormal, not clinically significant"
+PP-58843,,M0,0,"Abnormal, not clinically significant"
+PP-58865,NIHYH883VJLN7,M0,0,Normal
+PP-58909,NIHZB362HXEY6,M0,0,"Abnormal, not clinically significant"
+PP-58916,NIHZV398BMUXW,M0,0,"Abnormal, not clinically significant"
+PP-58990,NIHXZ174MPXY3,M0,0,"Abnormal, clinically significant"
+PP-59042,NIHNE118CVUC0,M0,0,Normal
+PP-59053,NIHNZ041AFYY8,M0,0,Normal
+PP-59121,NIHLW912PGRVJ,M0,0,"Abnormal, not clinically significant"
+PP-59152,NIHAN814PBLDG,M0,0,Normal
+PP-59154,,M0,0,"Abnormal, not clinically significant"
+PP-59174,NIHRW548VCNHA,M0,0,Normal
+PP-59178,,M0,0,
+PP-59253,NIHWC179VTWMB,M0,0,Normal
+PP-59293,NIHRD602UGZNT,M0,0,Normal
+PP-59310,NIHFC619VCVX4,M0,0,Normal
+PP-59390,NIHGP114CTKEQ,M0,0,Normal
+PP-59398,,M0,0,"Abnormal, not clinically significant"
+PP-59409,NIHEU570ZNUGM,M0,0,Normal
+PP-59466,NIHDY419PZUZL,M0,0,"Abnormal, not clinically significant"
+PP-59483,NIHGK245FNLX5,M0,0,Normal
+PP-59483,NIHGK245FNLX5,M24,24,
+PP-59507,NIHMT018XPYAR,M0,0,
+PP-59507,NIHMT018XPYAR,M12,12,
+PP-59507,NIHMT018XPYAR,M24,24,
+PP-59539,,M0,0,"Abnormal, not clinically significant"
+PP-59539,,M24,24,
+PP-59545,,M0,0,Normal
+PP-59552,,M0,0,Normal
+PP-59558,NIHVP974XGWKN,M0,0,"Abnormal, not clinically significant"
+PP-59583,NIHHY382AWACE,M0,0,"Abnormal, not clinically significant"
+PP-59614,NIHTD187FCJAM,M0,0,"Abnormal, not clinically significant"
+PP-59649,,M0,0,"Abnormal, not clinically significant"
+PP-59724,NIHJA294WLCDF,M0,0,Normal
+PP-59733,,M0,0,Normal
+PP-59797,NIHYV774MFBRE,M0,0,"Abnormal, not clinically significant"
+PP-59866,NIHUJ738FZVD4,M0,0,Normal
+PP-59869,NIHDH011VJER4,M0,0,"Abnormal, not clinically significant"
+PP-60002,,M0,0,"Abnormal, not clinically significant"
+PP-60003,,M0,0,Normal
+PP-60004,,M0,0,"Abnormal, not clinically significant"
+PP-60006,,M0,0,"Abnormal, not clinically significant"
+PP-60006,,M12,12,
+PP-60006,,M24,24,
+PP-60013,NIHFY762DJTJU,M0,0,"Abnormal, not clinically significant"
+PP-60015,,M0,0,"Abnormal, not clinically significant"
+PP-60023,NIHNH994NTPDB,M0,0,Normal
+PP-60023,NIHNH994NTPDB,M12,12,
+PP-60023,NIHNH994NTPDB,M24,24,
+PP-60024,,M0,0,"Abnormal, not clinically significant"
+PP-60024,,M12,12,
+PP-60024,,M24,24,
+PP-60033,,M0,0,Normal
+PP-60033,,M12,12,
+PP-60033,,M24,24,
+PP-60035,,M0,0,Normal
+PP-60035,,M12,12,
+PP-60035,,M24,24,
+PP-60036,,M0,0,Normal
+PP-60036,,M12,12,
+PP-60036,,M24,24,
+PP-60043,,M0,0,"Abnormal, not clinically significant"
+PP-60043,,M12,12,
+PP-60043,,M24,24,
+PP-60044,,M0,0,Normal
+PP-60044,,M12,12,
+PP-60044,,M24,24,
+PP-60045,,M0,0,"Abnormal, not clinically significant"
+PP-60046,,M0,0,"Abnormal, not clinically significant"
+PP-60048,,M0,0,"Abnormal, not clinically significant"
+PP-60056,,M0,0,"Abnormal, not clinically significant"
+PP-60057,,M0,0,"Abnormal, not clinically significant"
+PP-60059,,M0,0,Normal
+PP-60060,,M0,0,Normal
+PP-60063,,M0,0,"Abnormal, not clinically significant"
+PP-60065,,M0,0,Normal
+PP-60073,,M0,0,Normal
+PP-60073,,M12,12,
+PP-60073,,M24,24,
+PP-60074,,M0,0,Normal
+PP-60074,,M12,12,
+PP-60074,,M24,24,
+PP-60075,,M0,0,Normal
+PP-60075,,M12,12,
+PP-60075,,M24,24,
+PP-60091,,M0,0,Normal
+PP-60091,,M12,12,
+PP-60091,,M24,24,
+PP-60095,,M0,0,Normal
+PP-60096,,M0,0,"Abnormal, not clinically significant"
+PP-60100,,M0,0,"Abnormal, clinically significant"
+PP-60101,,M0,0,"Abnormal, clinically significant"
+PP-60107,,M0,0,"Abnormal, not clinically significant"
+PP-60108,,M0,0,"Abnormal, not clinically significant"
+PP-60109,,M0,0,"Abnormal, not clinically significant"
+PP-60118,,M0,0,"Abnormal, not clinically significant"
+PP-60122,,M0,0,
+PP-60148,,M0,0,"Abnormal, not clinically significant"
+PP-60170,,M0,0,"Abnormal, clinically significant"
+PP-60171,NIHRR893LVFEZ,M0,0,"Abnormal, not clinically significant"
+PP-65000,,M0,0,
+PP-65002,NIHEX532DFLN0,M0,0,
+PP-65002,NIHEX532DFLN0,M24,24,
+PP-65003,,M0,0,Normal
+PP-65003,,M24,24,
+PP-65003,,M48,48,
+PP-65006,,M0,0,
+PP-70035,NIHXD792AWGCW,M0,0,"Abnormal, not clinically significant"
+PP-70087,NIHTM374URAR9,M0,0,"Abnormal, not clinically significant"
+PP-70106,NIHUN059BTMUU,M0,0,"Abnormal, not clinically significant"
+PP-70326,NIHLN519GZKZR,M0,0,"Abnormal, not clinically significant"
+PP-70345,NIHYW012REYPJ,M0,0,Normal
+PP-70347,NIHHA339NXBP0,M0,0,Normal
+PP-70354,,M0,0,"Abnormal, not clinically significant"
+PP-70432,NIHNX951WEJWE,M0,0,"Abnormal, clinically significant"
+PP-70453,,M0,0,Normal
+PP-70463,NIHKJ946GYYG0,M0,0,Normal
+PP-70630,NIHAV982PGZGW,M0,0,Normal
+PP-70631,NIHZA948NWCCV,M0,0,Normal
+PP-70645,NIHPN741EJTTT,M0,0,"Abnormal, not clinically significant"
+PP-70652,NIHBR961UMLYP,M0,0,"Abnormal, not clinically significant"
+PP-70659,NIHXU330ZCZF9,M0,0,"Abnormal, not clinically significant"
+PP-70736,NIHUE797FKRD7,M0,0,Normal
+PP-70810,NIHXU276JJLAM,M0,0,
+PP-70818,NIHXB195XXPCG,M0,0,Normal
+PP-70977,NIHEC851LVFNT,M0,0,Normal
+PP-70991,,M0,0,"Abnormal, not clinically significant"
+PP-71045,NIHKN947ZACLN,M0,0,Normal
+PP-71065,NIHRM864YKWL7,M0,0,Normal
+PP-71093,NIHCZ949FACD9,M0,0,"Abnormal, not clinically significant"
+PP-71097,NIHJX757CGWCH,M0,0,Normal
+PP-71097,NIHJX757CGWCH,M24,24,
+PP-71098,NIHZH717VMYNC,M0,0,"Abnormal, clinically significant"
+PP-71107,NIHJR244KTTE2,M0,0,Normal
+PP-71189,NIHKZ337PATFY,M0,0,Normal
+PP-71236,NIHRA133TRKT1,M0,0,"Abnormal, not clinically significant"
+PP-71313,,M0,0,"Abnormal, not clinically significant"
+PP-71375,NIHPL299TLFL8,M0,0,Normal
+PP-71387,NIHBY676TAUDR,M0,0,Normal
+PP-71423,NIHKL960BXHMY,M0,0,Normal
+PP-71452,NIHPT118XKBJC,M0,0,Normal
+PP-71658,NIHWV514TFVRN,M0,0,Normal
+PP-71679,NIHJA524DHVUH,M0,0,Normal
+PP-71770,NIHRR805ATFMC,M0,0,Normal
+PP-71808,NIHDK517MATAZ,M0,0,
+PP-71809,NIHAR216TFWU7,M0,0,Normal
+PP-71880,NIHEF380MDYDZ,M0,0,Normal
+PP-71903,NIHXZ685BWJG7,M0,0,Normal
+PP-71978,NIHFL092LYYNW,M0,0,Normal
+PP-72083,NIHCE311PXKKH,M0,0,Normal
+PP-72110,NIHJF847LWCC1,M0,0,"Abnormal, not clinically significant"
+PP-72138,,M0,0,Normal
+PP-72138,,M24,24,
+PP-72222,NIHXB474NZYCC,M0,0,"Abnormal, not clinically significant"
+PP-72283,NIHBL425AZMJQ,M0,0,Normal
+PP-72419,NIHCZ980PXYJB,M0,0,Normal
+PP-72562,,M0,0,Normal
+PP-72651,NIHWW441WJYDR,M0,0,Normal
+PP-72826,NIHYV097JDBJQ,M0,0,Normal
+PP-72877,,M0,0,Normal
+PP-73082,NIHFJ700KCBF2,M0,0,"Abnormal, not clinically significant"
+PP-73114,NIHJJ033TJZK4,M0,0,"Abnormal, not clinically significant"
+PP-73115,NIHMD794JZRFZ,M0,0,Normal
+PP-73192,NIHTD494XWXJE,M0,0,Normal
+PP-73397,NIHNJ810NHCBG,M0,0,Normal
+PP-73432,NIHTV821WMKK3,M0,0,"Abnormal, not clinically significant"
+PP-73467,,M0,0,Normal
+PP-73616,NIHEA918XUPB9,M0,0,Normal
+PP-73673,NIHAV878FNRMT,M0,0,Normal
+PP-73688,NIHYU456FJUZX,M0,0,"Abnormal, not clinically significant"
+PP-73716,NIHTY006DWMY1,M0,0,Normal
+PP-73887,NIHBP185KMXP1,M0,0,
+PP-73935,,M0,0,"Abnormal, not clinically significant"
+PP-73940,NIHLV497ZURF8,M0,0,Normal
+PP-74000,NIHXP430VLVGM,M0,0,Normal
+PP-74004,NIHPC212RLYMF,M0,0,"Abnormal, not clinically significant"
+PP-74034,,M0,0,"Abnormal, not clinically significant"
+PP-74067,NIHJX033MJPFX,M0,0,"Abnormal, not clinically significant"
+PP-74158,NIHYK783HKMPG,M0,0,Normal
+PP-74251,NIHGU974JAVRX,M0,0,Normal
+PP-74272,NIHWG288YJKZF,M0,0,Normal
+PP-74303,NIHTJ970ADNB3,M0,0,Normal
+PP-74307,NIHEF389YGGKU,M0,0,"Abnormal, not clinically significant"
+PP-74312,,M0,0,"Abnormal, clinically significant"
+PP-74375,NIHNF902TCGX2,M0,0,Normal
+PP-74393,NIHAJ058WEEKG,M0,0,Normal
+PP-74497,NIHAP133VKWRW,M0,0,Normal
+PP-74544,NIHEH107GBMFL,M0,0,
+PP-74696,NIHXG569LNFXY,M0,0,Normal
+PP-74739,NIHZW493GKDNP,M0,0,Normal
+PP-74743,NIHJM503UJHXJ,M0,0,"Abnormal, not clinically significant"
+PP-74779,NIHJN166UTYEV,M0,0,Normal
+PP-74817,,M0,0,Normal
+PP-74940,NIHHR407UKGM4,M0,0,Normal
+PP-74977,NIHBP031ZGFH3,M0,0,Normal
+PP-75134,NIHVZ254WVTNQ,M0,0,Normal
+PP-75149,NIHPU719YXUEL,M0,0,Normal
+PP-75403,NIHHL520GEUEK,M0,0,Normal
+PP-75409,NIHCM211RAYBG,M0,0,"Abnormal, not clinically significant"
+PP-75411,NIHGY645VATRJ,M0,0,Normal
+PP-75414,,M0,0,Normal
+PP-75418,NIHZG864LLFXD,M0,0,Normal
+PP-75419,NIHKG909WFJWX,M0,0,Normal
+PP-75420,NIHPP756LKKJZ,M0,0,Normal
+PP-75421,NIHFH285XUUJ8,M0,0,Normal
+PP-75422,NIHZR836KXWEV,M0,0,Normal
+PP-75423,NIHAB458XTRR5,M0,0,Normal
+PP-75426,,M0,0,Normal
+PP-75433,,M0,0,"Abnormal, not clinically significant"
+PP-75434,NIHCX384AFYPY,M0,0,Normal
+PP-75440,NIHRR261DVZBZ,M0,0,"Abnormal, not clinically significant"
+PP-75441,,M0,0,
+PP-75447,,M0,0,Normal
+PP-75450,NIHBY906YDLEC,M0,0,Normal
+PP-75454,,M0,0,
+PP-75465,NIHZJ980BNWCK,M0,0,Normal
+PP-75479,NIHJH199PCRWV,M0,0,"Abnormal, not clinically significant"
+PP-75480,,M0,0,Normal
+PP-75484,NIHWD540ZKKFK,M0,0,Normal
+PP-75485,,M0,0,"Abnormal, not clinically significant"
+PP-75492,NIHTM361GHZP3,M0,0,Normal
+PP-75496,,M0,0,
+PP-75503,NIHBV718NDJVR,M0,0,Normal
+PP-75505,NIHCD509AMRVU,M0,0,Normal
+PP-75508,NIHLL907ZNVH0,M0,0,Normal
+PP-75512,NIHXB659KDLU8,M0,0,Normal
+PP-75520,NIHPF790MANV8,M0,0,"Abnormal, clinically significant"
+PP-75524,NIHLG772GRYC5,M0,0,Normal
+PP-75525,,M0,0,Normal
+PP-75547,NIHDG977LDNZC,M0,0,
+PP-75562,NIHEN361XNFPU,M0,0,"Abnormal, not clinically significant"
+PP-75564,NIHWX242YEWTE,M0,0,Normal
+PP-75565,NIHDP527FFJMX,M0,0,Normal
+PP-85062,,M0,0,"Abnormal, not clinically significant"
+PP-85236,,M0,0,
+PP-85236,,M12,12,
+PP-85236,,M24,24,
+PP-85236,,M3,3,
+PP-85242,,M0,0,Normal
+PP-85242,,M12,12,
+PP-85242,,M24,24,
+PP-90456,,M0,0,"Abnormal, not clinically significant"
+PP-91097,NIHPM376XMEFF,M0,0,"Abnormal, not clinically significant"
+PP-91837,,M0,0,"Abnormal, clinically significant"
+PP-92490,NIHCW801ZWXWW,M0,0,
+PP-92490,NIHCW801ZWXWW,M12,12,
+PP-92490,NIHCW801ZWXWW,M24,24,
+PP-92834,,M0,0,Normal
+PP-70188,NIHDR666KXJER,M0,0,Normal
+PP-70241,NIHBC743HPAX5,M0,0,"Abnormal, not clinically significant"
+PP-71008,,M0,0,
+PP-70765,NIHCT684GZCM1,M0,0,"Abnormal, not clinically significant"
+PP-70654,NIHHH103JMFRC,M0,0,Normal
+PP-70636,NIHYK242UDGLV,M0,0,Normal
+PP-72082,NIHAR448LDKLZ,M0,0,Normal
+PP-73787,NIHFW053BRPHW,M0,0,Normal
+PP-70067,,M0,0,Normal
+PP-72784,NIHKG809NFMTD,M0,0,"Abnormal, not clinically significant"
+PP-70519,NIHCJ132HUTAZ,M0,0,"Abnormal, not clinically significant"
+PP-72760,NIHDD768FVZAK,M0,0,Normal
+PP-40067,NIHND555HJJED,M0,0,Normal
+PP-73134,NIHZZ320KAFCJ,M0,0,Normal
+PP-70179,NIHAX026DLLPD,M0,0,Normal
+PP-71150,NIHBV996EBKFB,M0,0,"Abnormal, not clinically significant"
+PP-59503,,M0,0,"Abnormal, not clinically significant"
+PP-72352,NIHEK562GAYE7,M0,0,Normal
+PP-73614,,M0,0,"Abnormal, not clinically significant"
+PP-71521,NIHBG039XZWC1,M0,0,Normal
+PP-72791,NIHEK598UJHD3,M0,0,Normal
+PP-70378,NIHMD338YYNKX,M0,0,"Abnormal, not clinically significant"
+PP-71394,NIHWR021JKNRA,M0,0,Normal
+PP-71494,,M0,0,"Abnormal, not clinically significant"
+PP-71215,NIHGU950NUPWJ,M0,0,"Abnormal, not clinically significant"
+PP-74763,NIHRD901JNEN7,M0,0,"Abnormal, not clinically significant"
+PP-74199,NIHTL909XRKAZ,M0,0,"Abnormal, not clinically significant"
+PP-42724,,M0,0,Normal
+PP-70658,NIHUJ988MBKUF,M0,0,Normal
+PP-71935,,M0,0,Normal
+PP-42710,,M0,0,Normal
+PP-59503,,M24,24,
+PP-73787,NIHFW053BRPHW,M24,24,
+PP-3175,NIHFG006HTWYT,M0,0,Normal
+PP-3782,,M0,0,"Abnormal, not clinically significant"
+PP-3782,,M3,3,
+PP-3175,NIHFG006HTWYT,M12,12,
+PP-3175,NIHFG006HTWYT,M24,24,
+PP-3175,NIHFG006HTWYT,M48,48,
+PP-41299,,M0,0,

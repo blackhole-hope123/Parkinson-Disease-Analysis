@@ -1,0 +1,9 @@
+TableName,ColumnName,Title,Description,Required,DataType,DataTypeRange,UniqueValues
+Biospecimen_analyses_SomaLogic_plasma.csv,participant_id,Study Subject ID,Study Subject ID,TRUE,String,,
+Biospecimen_analyses_SomaLogic_plasma.csv,GUID,Subject ID,Global Unique ID (USUBJID),FALSE,String,,
+Biospecimen_analyses_SomaLogic_plasma.csv,visit_name,Visit Name,"Visit name: M - in months, SC - screening visit, LOG - records without visit; #2 or #3 define repated records at the same visit or repeated visit",TRUE,String,,
+Biospecimen_analyses_SomaLogic_plasma.csv,visit_month,Visit Month,"Numeric visit in months; for visits prior baseline -1, -2 is an order of screening visits",FALSE,Float,,
+Biospecimen_analyses_SomaLogic_plasma.csv,sample_type,Analysis of plasma proteins using an aptamer-based Somalogic platform,"Type of biospecimen used for analysis e.g. CSF, Plasma, Serum, Blood, RNA",TRUE,Enumeration,,Plasma
+Biospecimen_analyses_SomaLogic_plasma.csv,test_name,Analysis of plasma proteins using an aptamer-based Somalogic platform,Name of the biospecimen test,TRUE,String,,
+Biospecimen_analyses_SomaLogic_plasma.csv,test_value,Analysis of plasma proteins using an aptamer-based Somalogic platform,Biospecimen test result (numeric),FALSE,Float, 49-354600,
+Biospecimen_analyses_SomaLogic_plasma.csv,test_units,Analysis of plasma proteins using an aptamer-based Somalogic platform,Biospecimen test units of measure,TRUE,Enumeration,,RFU
