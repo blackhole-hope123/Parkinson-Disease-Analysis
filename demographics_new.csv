@@ -77,17 +77,13 @@ BF-1083,PDHC631ZTT,M0,0,71,Male,Not Hispanic or Latino,White,12-16 years
 BF-1084,PDHW583BHX,M0,0,61,Male,Not Hispanic or Latino,White,Greater than 16 years
 BF-1085,PDKH960RVF,M0,0,66,Male,Not Hispanic or Latino,White,12-16 years
 BF-1086,PDVC688DCC,M0,0,79,Male,Not Hispanic or Latino,White,12-16 years
-BF-1088,PDJV686AAB,M0,0,66,Female,Not Hispanic or Latino,White,Greater than 16 years
 BF-1090,PDWP107VZC,M0,0,64,Female,Not Hispanic or Latino,White,12-16 years
-BF-1091,PDEB612LPE,M0,0,68,Male,Not Hispanic or Latino,White,12-16 years
 BF-1092,PDMM366LNM,M0,0,69,Female,Not Hispanic or Latino,White,12-16 years
 BF-1093,PDPT847LVB,M0,0,69,Male,Not Hispanic or Latino,White,12-16 years
 BF-1094,PDVX542ZZ9,M0,0,61,Female,Not Hispanic or Latino,White,12-16 years
 BF-1095,PDCG232LM0,M0,0,68,Female,Not Hispanic or Latino,White,12-16 years
 BF-1096,PDYY923NF2,M0,0,71,Female,Not Hispanic or Latino,White,12-16 years
 BF-1097,PDKA545HKM,M0,0,68,Female,Not Hispanic or Latino,White,12-16 years
-BF-1098,PDUA781LH0,M0,0,64,Male,Not Hispanic or Latino,White,12-16 years
-BF-1100,PDBW494GHE,M0,0,71,Male,Not Hispanic or Latino,White,Less than 12 years
 BF-1101,PDJL290RYA,M0,0,74,Female,Not Hispanic or Latino,Black or African American,12-16 years
 BF-1102,PDGE690VLX,M0,0,69,Male,Not Hispanic or Latino,White,12-16 years
 BF-1103,PDRV593NWC,M0,0,75,Female,Not Hispanic or Latino,White,12-16 years
@@ -1549,7 +1545,6 @@ PD-PDBV792AEN,PDBV792AEN,M0,0,50,Male,Not Hispanic or Latino,White,12-16 years
 PD-PDBV795PBQ,PDBV795PBQ,M0,0,61,Male,Not Hispanic or Latino,Black or African American,12-16 years
 PD-PDBV885HJ7,PDBV885HJ7,M0,0,67,Female,Not Hispanic or Latino,White,12-16 years
 PD-PDBW209KMV,PDBW209KMV,M0,0,67,Female,Not Hispanic or Latino,White,12-16 years
-PD-PDBW494GHE,PDBW494GHE,M0,0,71,Male,Not Hispanic or Latino,White,Less than 12 years
 PD-PDBW583CHZ,PDBW583CHZ,M0,0,66,Female,Not Hispanic or Latino,White,Greater than 16 years
 PD-PDBW766JAG,PDBW766JAG,M0,0,67,Male,Not Hispanic or Latino,White,12-16 years
 PD-PDBW820AWE,PDBW820AWE,M0,0,68,Female,Not Hispanic or Latino,White,Greater than 16 years
@@ -1695,7 +1690,6 @@ PD-PDEA482VBB,PDEA482VBB,M0,0,60,Female,Unknown,White,12-16 years
 PD-PDEA596AUU,PDEA596AUU,M0,0,55,Female,Hispanic or Latino,White,12-16 years
 PD-PDEA684CUR,PDEA684CUR,M0,0,72,Male,Not Hispanic or Latino,White,12-16 years
 PD-PDEB212KZZ,PDEB212KZZ,M0,0,60,Female,Not Hispanic or Latino,White,Greater than 16 years
-PD-PDEB612LPE,PDEB612LPE,M0,0,67,Male,Not Hispanic or Latino,White,12-16 years
 PD-PDEB671AU6,PDEB671AU6,M0,0,60,Male,Not Hispanic or Latino,White,12-16 years
 PD-PDEB839GVH,PDEB839GVH,M0,0,68,Male,Not Hispanic or Latino,White,Greater than 16 years
 PD-PDEC134RUN,PDEC134RUN,M0,0,44,Male,Not Hispanic or Latino,White,Greater than 16 years
@@ -1917,7 +1911,6 @@ PD-PDHA205NF9,PDHA205NF9,M0,0,62,Female,Unknown,White,12-16 years
 PD-PDHA446LFF,PDHA446LFF,M0,0,69,Female,Not Hispanic or Latino,White,Greater than 16 years
 PD-PDHA976LV0,PDHA976LV0,M0,0,66,Male,Not Hispanic or Latino,White,12-16 years
 PD-PDHB476LC0,PDHB476LC0,M0,0,74,Male,Not Hispanic or Latino,White,Greater than 16 years
-PD-PDHB484JY8,PDHB484JY8,M0,0,58,Female,Not Hispanic or Latino,White,12-16 years
 PD-PDHC565RYA,PDHC565RYA,M0,0,65,Male,Not Hispanic or Latino,White,12-16 years
 PD-PDHD511GBP,PDHD511GBP,M0,0,49,Female,Not Hispanic or Latino,White,12-16 years
 PD-PDHD749KBY,PDHD749KBY,M0,0,80,Male,Unknown,White,Greater than 16 years
@@ -2048,7 +2041,6 @@ PD-PDJT681LJC,PDJT681LJC,M0,0,70,Male,Not Hispanic or Latino,White,12-16 years
 PD-PDJU067DAM,PDJU067DAM,M0,0,68,Female,Not Hispanic or Latino,White,12-16 years
 PD-PDJV235CRP,PDJV235CRP,M0,0,52,Female,Not Hispanic or Latino,White,12-16 years
 PD-PDJV666NZ8,PDJV666NZ8,M0,0,68,Female,Not Hispanic or Latino,White,Greater than 16 years
-PD-PDJV686AAB,PDJV686AAB,M0,0,65,Female,Not Hispanic or Latino,White,12-16 years
 PD-PDJV751CHF,PDJV751CHF,M0,0,53,Female,Not Hispanic or Latino,White,12-16 years
 PD-PDJW708CRR,PDJW708CRR,M0,0,73,Female,Not Hispanic or Latino,White,12-16 years
 PD-PDJX108CFB,PDJX108CFB,M0,0,62,Male,Not Hispanic or Latino,White,12-16 years
@@ -2558,7 +2550,6 @@ PD-PDTZ345JWY,PDTZ345JWY,M0,0,39,Female,Not Hispanic or Latino,White,12-16 years
 PD-PDUA571UM0,PDUA571UM0,M0,0,67,Male,Not Hispanic or Latino,White,12-16 years
 PD-PDUA743VEG,PDUA743VEG,M0,0,58,Female,Not Hispanic or Latino,White,Greater than 16 years
 PD-PDUA772WXE,PDUA772WXE,M0,0,74,Male,Not Hispanic or Latino,White,12-16 years
-PD-PDUA781LH0,PDUA781LH0,M0,0,63,Male,Not Hispanic or Latino,White,12-16 years
 PD-PDUA819AT1,PDUA819AT1,M0,0,74,Male,Not Hispanic or Latino,White,Greater than 16 years
 PD-PDUA842BH6,PDUA842BH6,M0,0,68,Male,Not Hispanic or Latino,White,Greater than 16 years
 PD-PDUA877LP2,PDUA877LP2,M0,0,41,Male,Not Hispanic or Latino,White,12-16 years
@@ -4229,7 +4220,6 @@ SY-PDGT137BDP,PDGT137BDP,M0,0,60,Male,Not Hispanic or Latino,White,Unknown
 SY-PDGT904GUV,PDGT904GUV,M0,0,56,Male,Not Hispanic or Latino,White,Unknown
 SY-PDGX683XN4,PDGX683XN4,M0,0,53,Female,Not Hispanic or Latino,White,Unknown
 SY-PDGZ475MV7,PDGZ475MV7,M0,0,67,Male,Not Hispanic or Latino,White,Unknown
-SY-PDHB484JY8,PDHB484JY8,M0,0,59,Female,Not Hispanic or Latino,White,Unknown
 SY-PDHB982NDZ,PDHB982NDZ,M0,0,67,Female,Not Hispanic or Latino,Black or African American,Unknown
 SY-PDHB986ZP1,PDHB986ZP1,M0,0,60,Female,Not Hispanic or Latino,White,Unknown
 SY-PDHD219YRF,PDHD219YRF,M0,0,59,Male,Not Hispanic or Latino,White,Unknown
