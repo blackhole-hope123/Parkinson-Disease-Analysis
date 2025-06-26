@@ -1,0 +1,9 @@
+TableName,ColumnName,Title,Description,Required,DataType,DataTypeRange,UniqueValues
+Biospecimen_analyses_other.csv,participant_id,Study Subject ID,Study Subject ID,TRUE,String,,
+Biospecimen_analyses_other.csv,GUID,Subject ID,Global Unique ID (USUBJID),FALSE,String,,
+Biospecimen_analyses_other.csv,visit_name,Visit Name,"Visit name: M - in months, SC - screening visit, LOG - records without visit; #2 or #3 define repated records at the same visit or repeated visit",TRUE,String,,
+Biospecimen_analyses_other.csv,visit_month,Visit Month,"Numeric visit in months; for visits prior baseline -1, -2 is an order of screening visits",FALSE,Float,,
+Biospecimen_analyses_other.csv,sample_type,Various biospecimen analyses,"Type of biospecimen used for analysis e.g. CSF, Plasma, Serum, Blood, RNA",TRUE,Enumeration,,Plasma;CSF;RNA;Serum
+Biospecimen_analyses_other.csv,test_name,Various biospecimen analyses,Name of the biospecimen test,TRUE,String,,
+Biospecimen_analyses_other.csv,test_value,Various biospecimen analyses,Biospecimen test result (numeric),FALSE,Float, -10-713,
+Biospecimen_analyses_other.csv,test_units,Various biospecimen analyses,Biospecimen test units of measure,TRUE,Enumeration,,ug/mL;ng/mL;mg/mL;Ct Avg;Stdev
