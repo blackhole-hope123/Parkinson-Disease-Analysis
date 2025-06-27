@@ -1,9 +1,0 @@
-TableName,ColumnName,Title,Description,Required,DataType,DataTypeRange,UniqueValues
-Biospecimen_analyses_CSF_beta_glucocerebrosidase.csv,participant_id,Study Subject ID,Study Subject ID,TRUE,String,,
-Biospecimen_analyses_CSF_beta_glucocerebrosidase.csv,GUID,Subject ID,Global Unique ID (USUBJID),FALSE,String,,
-Biospecimen_analyses_CSF_beta_glucocerebrosidase.csv,visit_name,Visit Name,"Visit name: M - in months, SC - screening visit, LOG - records without visit; #2 or #3 define repated records at the same visit or repeated visit",TRUE,String,,
-Biospecimen_analyses_CSF_beta_glucocerebrosidase.csv,visit_month,Visit Month,"Numeric visit in months; for visits prior baseline -1, -2 is an order of screening visits",FALSE,Float,,
-Biospecimen_analyses_CSF_beta_glucocerebrosidase.csv,sample_type,Analysis of Beta-Glucocerebrosidase in Cerebrospinal Fluid,"Type of biospecimen used for analysis e.g. CSF, Plasma, Serum, Blood, RNA",TRUE,Enumeration,,CSF
-Biospecimen_analyses_CSF_beta_glucocerebrosidase.csv,test_name,Analysis of Beta-Glucocerebrosidase in Cerebrospinal Fluid,Name of the biospecimen test,TRUE,Enumeration,,beta-glucocerebrosidase
-Biospecimen_analyses_CSF_beta_glucocerebrosidase.csv,test_value,Analysis of Beta-Glucocerebrosidase in Cerebrospinal Fluid,Biospecimen test result (numeric),FALSE,Float, 0-22,
-Biospecimen_analyses_CSF_beta_glucocerebrosidase.csv,test_units,Analysis of Beta-Glucocerebrosidase in Cerebrospinal Fluid,Biospecimen test units of measure,TRUE,Enumeration,,%CV;Average (pmol/min/mL)
