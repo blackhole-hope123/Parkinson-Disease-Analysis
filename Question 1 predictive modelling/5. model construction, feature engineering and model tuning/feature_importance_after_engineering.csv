@@ -1,100 +1,118 @@
 ,updrs_1,updrs_2,updrs_3,average_importance
-Greater than 16 years,150,750,85,328.3333333333333
-Less than 12 years,14,12,16,14.0
-Other_education_level_years,0,0,0,0.0
-Unknown,22,12,41,25.0
-caff_drinks_ever_used_regularly,9,5,7,7.0
-caff_drinks_current_use,18,10,16,14.666666666666666
-visit_month,216,218,1098,510.6666666666667
-age_at_baseline,715,514,1752,993.6666666666666
-biological_mother_with_pd,40,23,28,30.333333333333332
-biological_father_with_pd,34,48,52,44.666666666666664
-other_relative_with_pd,50,17,71,46.0
-roi1_left_rostral_Eigenvalue1,83,72,115,90.0
-roi1_left_rostral_Eigenvalue2,70,83,73,75.33333333333333
-roi1_left_rostral_Eigenvalue3,60,59,70,63.0
-roi1_left_rostral_Fractional Anisotropy,119,59,84,87.33333333333333
-roi2_left_middle_Eigenvalue1,95,60,93,82.66666666666667
-roi2_left_middle_Eigenvalue2,55,43,74,57.333333333333336
-roi2_left_middle_Eigenvalue3,51,32,66,49.666666666666664
-roi2_left_middle_Fractional Anisotropy,99,63,99,87.0
-roi3_left_caudal_Eigenvalue1,76,66,83,75.0
-roi3_left_caudal_Eigenvalue2,67,81,89,79.0
-roi3_left_caudal_Eigenvalue3,62,47,60,56.333333333333336
-roi3_left_caudal_Fractional Anisotropy,73,62,54,63.0
-roi4_right_rostral_Eigenvalue1,102,952,60,371.3333333333333
-roi4_right_rostral_Eigenvalue2,120,65,963,382.6666666666667
-roi4_right_rostral_Eigenvalue3,68,55,60,61.0
-roi4_right_rostral_Fractional Anisotropy,170,127,71,122.66666666666667
-roi5_right_middle_Eigenvalue1,112,106,81,99.66666666666667
-roi5_right_middle_Eigenvalue2,91,78,64,77.66666666666667
-roi5_right_middle_Eigenvalue3,74,76,49,66.33333333333333
-roi5_right_middle_Fractional Anisotropy,106,73,49,76.0
-roi6_right_caudal_Eigenvalue1,100,56,77,77.66666666666667
-roi6_right_caudal_Eigenvalue2,68,93,105,88.66666666666667
-roi6_right_caudal_Eigenvalue3,72,61,69,67.33333333333333
-roi6_right_caudal_Fractional Anisotropy,104,76,123,101.0
-ref1_left_reference_Eigenvalue1,140,80,100,106.66666666666667
-ref1_left_reference_Eigenvalue2,107,65,83,85.0
-ref1_left_reference_Eigenvalue3,102,66,75,81.0
-ref1_left_reference_Fractional Anisotropy,86,52,66,68.0
-ref2_right_reference_Eigenvalue1,134,102,73,103.0
-ref2_right_reference_Eigenvalue2,89,69,69,75.66666666666667
-ref2_right_reference_Eigenvalue3,116,95,86,99.0
-ref2_right_reference_Fractional Anisotropy,94,55,108,85.66666666666667
-updrs_1_lag_1,455,246,355,352.0
-updrs_2_lag_1,396,299,289,328.0
-updrs_3_lag_1,567,1323,555,815.0
-sbr_caudate_r_lag_1,248,161,206,205.0
-sbr_caudate_l_lag_1,244,168,212,208.0
-sbr_putamen_r_lag_1,255,155,163,191.0
-sbr_putamen_l_lag_1,343,142,131,205.33333333333334
-updrs_1_lag_2,440,263,325,342.6666666666667
-updrs_2_lag_2,409,354,299,354.0
-updrs_3_lag_2,735,346,495,525.3333333333334
-sbr_caudate_r_lag_2,163,149,139,150.33333333333334
-sbr_caudate_l_lag_2,210,195,167,190.66666666666666
-sbr_putamen_r_lag_2,169,201,204,191.33333333333334
-sbr_putamen_l_lag_2,230,166,166,187.33333333333334
-updrs_1_lag_3,417,1728,341,828.6666666666666
-updrs_2_lag_3,358,871,293,507.3333333333333
-updrs_3_lag_3,538,402,410,450.0
-sbr_caudate_r_lag_3,379,162,171,237.33333333333334
-sbr_caudate_l_lag_3,383,179,177,246.33333333333334
-sbr_putamen_r_lag_3,309,154,267,243.33333333333334
-sbr_putamen_l_lag_3,285,137,192,204.66666666666666
-updrs_1_lag_std,929,705,683,772.3333333333334
-updrs_1_lag_range,412,218,292,307.3333333333333
-updrs_2_lag_std,0,0,0,0.0
-updrs_2_lag_range,0,0,0,0.0
-updrs_3_lag_std,0,0,0,0.0
-updrs_3_lag_range,0,0,0,0.0
-test_value_Plasma_Macrophage migration inhibitory factor_RFU,0,0,0,0.0
+age_at_baseline,543,232,978,584.3333333333334
+visit_month,306,1511,272,696.3333333333334
+Greater than 16 years,333,545,1423,767.0
+Less than 12 years,506,336,220,354.0
+Other_education_level_years,303,266,316,295.0
+Unknown,419,363,438,406.6666666666667
+caff_drinks_current_use,468,284,279,343.6666666666667
+caff_drinks_ever_used_regularly,322,241,250,271.0
+biological_mother_with_pd,421,244,377,347.3333333333333
+biological_father_with_pd,718,434,346,499.3333333333333
+other_relative_with_pd,482,362,377,407.0
+roi1_left_rostral_Eigenvalue1,671,477,481,543.0
+roi1_left_rostral_Eigenvalue2,479,349,2147,991.6666666666666
+roi1_left_rostral_Eigenvalue3,404,232,286,307.3333333333333
+roi1_left_rostral_Fractional Anisotropy,610,344,492,482.0
+roi2_left_middle_Eigenvalue1,460,262,327,349.6666666666667
+roi2_left_middle_Eigenvalue2,413,232,229,291.3333333333333
+roi2_left_middle_Eigenvalue3,504,300,409,404.3333333333333
+roi2_left_middle_Fractional Anisotropy,507,462,325,431.3333333333333
+roi3_left_caudal_Eigenvalue1,331,176,251,252.66666666666666
+roi3_left_caudal_Eigenvalue2,98,336,93,175.66666666666666
+roi3_left_caudal_Eigenvalue3,41,19,33,31.0
+roi3_left_caudal_Fractional Anisotropy,84,69,66,73.0
+roi4_right_rostral_Eigenvalue1,19,9,21,16.333333333333332
+roi4_right_rostral_Eigenvalue2,109,75,91,91.66666666666667
+roi4_right_rostral_Eigenvalue3,91,56,50,65.66666666666667
+roi4_right_rostral_Fractional Anisotropy,95,41,47,61.0
+roi5_right_middle_Eigenvalue1,87,47,54,62.666666666666664
+roi5_right_middle_Eigenvalue2,146,90,69,101.66666666666667
+roi5_right_middle_Eigenvalue3,139,78,70,95.66666666666667
+roi5_right_middle_Fractional Anisotropy,130,112,46,96.0
+roi6_right_caudal_Eigenvalue1,91,52,40,61.0
+roi6_right_caudal_Eigenvalue2,143,59,78,93.33333333333333
+roi6_right_caudal_Eigenvalue3,92,28,68,62.666666666666664
+roi6_right_caudal_Fractional Anisotropy,126,39,66,77.0
+ref1_left_reference_Eigenvalue1,94,24,74,64.0
+ref1_left_reference_Eigenvalue2,123,59,74,85.33333333333333
+ref1_left_reference_Eigenvalue3,151,48,93,97.33333333333333
+ref1_left_reference_Fractional Anisotropy,147,40,67,84.66666666666667
+ref2_right_reference_Eigenvalue1,120,44,75,79.66666666666667
+ref2_right_reference_Eigenvalue2,234,69,138,147.0
+ref2_right_reference_Eigenvalue3,165,98,78,113.66666666666667
+ref2_right_reference_Fractional Anisotropy,117,44,68,76.33333333333333
+updrs_1_lag_1,182,60,87,109.66666666666667
+updrs_2_lag_1,121,20,96,79.0
+updrs_3_lag_1,111,30,81,74.0
+sbr_caudate_r_lag_1,147,38,70,85.0
+sbr_caudate_l_lag_1,130,29,58,72.33333333333333
+sbr_putamen_r_lag_1,649,780,2889,1439.3333333333333
+sbr_putamen_l_lag_1,116,161,134,137.0
+updrs_1_lag_2,93,149,100,114.0
+updrs_2_lag_2,8,9,3,6.666666666666667
+updrs_3_lag_2,0,0,0,0.0
+sbr_caudate_r_lag_2,24,4,26,18.0
+sbr_caudate_l_lag_2,1,30,20,17.0
+sbr_putamen_r_lag_2,11,2,5,6.0
+sbr_putamen_l_lag_2,14,13,28,18.333333333333332
+updrs_1_lag_3,16,59,43,39.333333333333336
+updrs_2_lag_3,50,88,31,56.333333333333336
+updrs_3_lag_3,123,33,57,71.0
+sbr_caudate_r_lag_3,72,16,31,39.666666666666664
+sbr_caudate_l_lag_3,64,28,38,43.333333333333336
+sbr_putamen_r_lag_3,68,49,39,52.0
+sbr_putamen_l_lag_3,103,34,38,58.333333333333336
+updrs_1_lag_4,53,45,35,44.333333333333336
+updrs_2_lag_4,55,39,49,47.666666666666664
+updrs_3_lag_4,69,27,56,50.666666666666664
+sbr_caudate_r_lag_4,96,31,57,61.333333333333336
+sbr_caudate_l_lag_4,95,34,47,58.666666666666664
+sbr_putamen_r_lag_4,77,21,33,43.666666666666664
+sbr_putamen_l_lag_4,85,27,93,68.33333333333333
+updrs_1_lag_5,85,22,52,53.0
+updrs_2_lag_5,89,944,58,363.6666666666667
+updrs_3_lag_5,135,56,30,73.66666666666667
+sbr_caudate_r_lag_5,81,46,95,74.0
+sbr_caudate_l_lag_5,92,32,58,60.666666666666664
+sbr_putamen_r_lag_5,104,34,29,55.666666666666664
+sbr_putamen_l_lag_5,61,24,29,38.0
+updrs_1_lag_6,91,29,62,60.666666666666664
+updrs_2_lag_6,63,35,33,43.666666666666664
+updrs_3_lag_6,97,19,47,54.333333333333336
+sbr_caudate_r_lag_6,70,12,46,42.666666666666664
+sbr_caudate_l_lag_6,99,22,71,64.0
+sbr_putamen_r_lag_6,98,67,81,82.0
+sbr_putamen_l_lag_6,89,46,42,59.0
+updrs_1_lag_std,95,26,41,54.0
+updrs_1_lag_range,69,34,39,47.333333333333336
+updrs_2_lag_std,146,59,38,81.0
+updrs_2_lag_range,119,26,35,60.0
+updrs_3_lag_std,135,68,39,80.66666666666667
+updrs_3_lag_range,76,74,52,67.33333333333333
+test_value_Plasma_Macrophage migration inhibitory factor_RFU,661,802,1490,984.3333333333334
 test_value_Plasma_Proliferation-associated protein 2G4_RFU,0,0,0,0.0
 test_value_Plasma_Ribosome maturation protein SBDS_RFU,0,0,0,0.0
-updrs_1_slope_1,588,298,421,435.6666666666667
-updrs_1_slope_2,531,306,330,389.0
-updrs_1_slope_mean,430,308,346,361.3333333333333
-updrs_2_slope_1,571,387,358,438.6666666666667
-updrs_2_slope_2,510,362,471,447.6666666666667
-updrs_2_slope_mean,484,281,358,374.3333333333333
-updrs_3_slope_1,710,474,596,593.3333333333334
-updrs_3_slope_2,724,1015,560,766.3333333333334
-updrs_3_slope_mean,812,773,484,689.6666666666666
-updrs_1_mean_lags,903,416,469,596.0
-updrs_1_weighted,689,398,1305,797.3333333333334
-updrs_1_evenly_weighted,149,162,188,166.33333333333334
-updrs_2_mean_lags,477,2575,333,1128.3333333333333
-updrs_2_weighted,545,392,1346,761.0
-updrs_2_evenly_weighted,170,144,113,142.33333333333334
-updrs_3_mean_lags,586,464,1742,930.6666666666666
-updrs_3_weighted,496,260,352,369.3333333333333
-updrs_3_evenly_weighted,277,178,173,209.33333333333334
-updrs_1_time_adj,802,520,603,641.6666666666666
-updrs_2_time_adj,664,498,553,571.6666666666666
-updrs_3_time_adj,803,1491,542,945.3333333333334
-motor_ratio,875,578,671,708.0
-updrs_1_trend,1292,886,517,898.3333333333334
-updrs_2_trend,871,1970,652,1164.3333333333333
-updrs_3_trend,915,708,2164,1262.3333333333333
-age_x_visit_month,1019,694,1264,992.3333333333334
+updrs_1_slope_1,0,0,0,0.0
+updrs_1_slope_2,547,407,288,414.0
+updrs_1_slope_mean,518,332,308,386.0
+updrs_2_slope_1,457,346,284,362.3333333333333
+updrs_2_slope_2,467,516,314,432.3333333333333
+updrs_2_slope_mean,444,275,321,346.6666666666667
+updrs_3_slope_1,491,519,253,421.0
+updrs_3_slope_2,822,373,1598,931.0
+updrs_3_slope_mean,724,384,549,552.3333333333334
+updrs_1_mean_lags,741,419,489,549.6666666666666
+updrs_1_weighted,617,2319,454,1130.0
+updrs_2_mean_lags,896,531,1184,870.3333333333334
+updrs_2_weighted,0,0,0,0.0
+updrs_3_mean_lags,571,1588,361,840.0
+updrs_3_weighted,0,0,0,0.0
+updrs_1_trend,516,504,415,478.3333333333333
+updrs_2_trend,1132,1034,472,879.3333333333334
+updrs_3_trend,674,3279,494,1482.3333333333333
+updrs_1_time_adj,750,1075,2031,1285.3333333333333
+updrs_2_time_adj,745,588,405,579.3333333333334
+updrs_3_time_adj,579,868,411,619.3333333333334
+motor_ratio,623,545,422,530.0
+age_x_visit_month,656,577,454,562.3333333333334

@@ -1,11 +1,11 @@
+age_at_baseline
+visit_month
 Greater than 16 years
 Less than 12 years
 Other_education_level_years
 Unknown
-caff_drinks_ever_used_regularly
 caff_drinks_current_use
-visit_month
-age_at_baseline
+caff_drinks_ever_used_regularly
 biological_mother_with_pd
 biological_father_with_pd
 other_relative_with_pd
