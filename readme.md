@@ -54,7 +54,7 @@ Over 20,000 observations from 4,000 participants were used after strict filterin
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 
 ## Reports and Slides
