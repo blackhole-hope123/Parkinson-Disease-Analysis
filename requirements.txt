@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+sklearn
+lightgbm
+scipy
+joblib
+xgboost
+statsmodel
+lifelines
